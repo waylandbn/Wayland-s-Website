@@ -7,31 +7,31 @@ export const DATA = {
         "Stacking skills, building momentum, and staying dangerous.",
     },
     skills: {
-      sectionTitle: "Skills & Expertise",
+      sectionTitle: "Skills",
       sectionDescription:
-        " Specialized in creating modern digital experiences with cutting-edge technologies",
+        " Working across content, audio, search, and web tools to support creative and marketing teams.",
       overview: [
         {
-          name: "UI/UX Design",
+          name: "Content Strategy",
           level: 95,
           icon: "lucide:layout-dashboard",
           color: "primary",
         },
         {
-          name: "Frontend Development",
+          name: "SEO & Metadata Optimization",
           level: 90,
           icon: "lucide:code",
           color: "secondary",
         },
         {
-          name: "Mobile Development",
+          name: "Audio & Video Production",
           level: 85,
           icon: "lucide:smartphone",
           color: "success",
         },
         {
-          name: "Motion Design",
-          level: 88,
+          name: "Site & Platform Management",
+          level: 80,
           icon: "lucide:video",
           color: "warning",
         },
