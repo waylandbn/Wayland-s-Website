@@ -2,9 +2,9 @@ export const DATA = {
   home: {
     hero: {
       name: "Wayland Branson",
-      title: "Full stack developer & UI/UX Designer",
+      title: "Digital Marketer",
       subtitle:
-        "I build fast, accessible and visually engaging web experiences.",
+        "Stacking skills, building momentum, and staying dangerous.",
     },
     skills: {
       sectionTitle: "Skills & Expertise",
@@ -477,16 +477,16 @@ export const DATA = {
     name: "Sofiane Bahmed",
     description: "Always interested in new projects and collaborations.",
     contact: {
-      email: "hello@example.com",
-      phone: "+1 (555) 123-4567",
-      location: "San Francisco, CA",
+      email: "morrisbranson@gmail.com",
+      phone: "+1 (469) 408-7059",
+      location: "Dallas / Austin, TX",
     },
     socialLinks: [
       { platform: "X", url: "https://x.com", icon: "simple-icons:x" },
       { platform: "GitHub", url: "https://github.com", icon: "mdi:github" },
       {
         platform: "LinkedIn",
-        url: "https://linkedin.com",
+        url: "www.linkedin.com/in/wayland-branson",
         icon: "mdi:linkedin",
       },
       {
