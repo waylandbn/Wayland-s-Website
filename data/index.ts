@@ -102,60 +102,53 @@ export const DATA = {
   },
   about: {
     profile: {
-      name: "Sofiane Bahmed",
-      title: "Full Stack Developer",
+      name: "Wayland Branson",
+      title: "Digital Marketer",
       image:
         "https://res.cloudinary.com/devq06psf/image/upload/v1750626859/chic_soba_apc1ht.png",
       description: [
-        "I'm a creative full-stack developer with a passion for UI/UX design and clean code. I focus on building beautiful, functional, and high-performance websites and web apps.",
-        "My approach is both technical and aesthetic — I enjoy turning complex problems into elegant user experiences. I work primarily with modern frameworks like React, Vite, and TailwindCSS.",
-        "Outside of code, I enjoy motion design, product strategy, and always pushing the boundaries of front-end development.",
+        "Marketing is a continuously evolving artform. It shifts with platforms, trends, and attention spans. I stay curious, keep learning, and adapt fast so I can create work that actually hits.",
+        "My work covers content strategy, SEO, writing, audio & visual production, and platform management. I’ve contributed to blogs, podcasts, social content, and campaign launches.",
+        "Right now, I’m focused on learning by doing, staying consistent, and building work I’m not embarrassed to show. That’s the bar.",
       ],
     },
     education: [
       {
-        title: "High School of Art and Design",
-        date: "2003 - 2006",
+        title: "The University of North Texas",
+        date: "2021 - 2026",
         icon: "mdi:palette",
         description:
-          "Focused on foundational art and visual design principles, which sparked my early interest in creative problem solving. Explored traditional media, digital illustration, and visual storytelling.",
-      },
-      {
-        title: "University of Technology and Design",
-        date: "2006 - 2010",
-        icon: "mdi:school",
-        description:
-          "Earned a Bachelor's degree in Computer Science with a minor in Design. Gained strong skills in software development, user interface engineering, data structures, and human-computer interaction.",
-      },
-      {
-        title: "Institute of Interactive Media",
-        date: "2011 - 2012",
-        icon: "mdi:school-outline",
-        description:
-          "Completed a Master's degree specializing in UX/UI Design and Front-End Development. Merged technical expertise with visual communication to design user-centered digital products and prototypes.",
+          "Studying Marketing with minors in Music and Entrepreneurship, with a concentration in classical guitar. That mix gives me a grounded understanding of how creative thinking and business strategy support each other.",
       },
     ],
     experience: [
       {
-        title: "Creative Director",
-        date: "2018 - Present",
+        title: "Marketing Intern",
+        date: "2025 - Present",
         icon: "mdi:briefcase",
         description:
-          "Lead creative and development teams to build digital experiences that combine innovation with user empathy. Oversee branding, UI/UX strategy, and development pipelines for tech startups and clients.",
+          "At KazSource and Quiet Loud Studios, Wayland supports podcast production, digital marketing, and outreach strategy across multiple in-house and client-facing brands. His role blends creative execution with research and analytics to help grow visibility, streamline workflows, and improve content performance.",
       },
       {
-        title: "Senior UX Engineer",
-        date: "2015 - 2018",
+        title: "Administrative Assitant",
+        date: "2024 - 2025",
         icon: "mdi:monitor-dashboard",
         description:
-          "Designed and implemented high-fidelity web interfaces using React, Figma, and Tailwind. Collaborated cross-functionally with developers and designers to craft intuitive user flows and interactions.",
+          "At The Reecer Law Firm, Wayland supported legal operations and administrative workflow in a fast-paced estate planning and probate environment. His attention to detail and organizational skills helped maintain compliance and improve overall efficiency.",
       },
       {
-        title: "Front-End Developer & Designer",
-        date: "2012 - 2015",
+        title: "Station Programmer & Director",
+        date: "2023 - 2024",
         icon: "mdi:code-tags",
         description:
-          "Developed responsive websites and applications with a focus on accessibility, visual aesthetics, and performance. Delivered pixel-perfect interfaces from wireframes to production code.",
+          "At 88.1 KNTU, Wayland led content programming, event planning, and digital strategy for one of North Texas’s most active college radio stations. His work combined audience analysis, creative production, and operations management to grow engagement and streamline internal systems.",
+      },
+      {
+        title: "Business Development Specialist",
+        date: "2022 - 2023",
+        icon: "mdi:code-tags",
+        description:
+          "As an Business Development Specialist, Wayland was responsible for fundraising through direct outreach to alumni, parents, and university supporters. His communication skills and strategic approach helped drive measurable support for university initiatives.",
       },
     ],
     technologies: {
