@@ -9,7 +9,7 @@ export const DATA = {
     skills: {
       sectionTitle: "Skills",
       sectionDescription:
-        " Working across content, audio, search, and web tools to support creative and marketing teams.",
+        " Working across content, audio, search, and web tools to support clients and marketing teams.",
       overview: [
         {
           name: "Content Strategy",
