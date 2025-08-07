@@ -13,7 +13,7 @@ export const DATA = {
       overview: [
         {
           name: "Content Strategy",
-          level: 95,
+          level: 85,
           icon: "lucide:layout-dashboard",
           color: "primary",
         },
@@ -25,13 +25,13 @@ export const DATA = {
         },
         {
           name: "Audio & Video Production",
-          level: 85,
+          level: 90,
           icon: "lucide:smartphone",
           color: "success",
         },
         {
           name: "Site & Platform Management",
-          level: 80,
+          level: 65,
           icon: "lucide:video",
           color: "warning",
         },
