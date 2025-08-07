@@ -148,7 +148,7 @@ export const DATA = {
         date: "2022 - 2023",
         icon: "mdi:code-tags",
         description:
-          "As an Business Development Specialist, Wayland was responsible for fundraising through direct outreach to alumni, parents, and university supporters. His communication skills and strategic approach helped drive measurable support for university initiatives.",
+          "At Ruffalo Noel Levitz, Wayland was responsible for fundraising through direct outreach to alumni, parents, and university supporters. His communication skills and strategic approach helped drive measurable support for university initiatives.",
       },
     ],
     technologies: {
