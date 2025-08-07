@@ -482,17 +482,10 @@ export const DATA = {
       location: "Dallas / Austin, TX",
     },
     socialLinks: [
-      { platform: "X", url: "https://x.com", icon: "simple-icons:x" },
-      { platform: "GitHub", url: "https://github.com", icon: "mdi:github" },
       {
         platform: "LinkedIn",
         url: "www.linkedin.com/in/wayland-branson",
         icon: "mdi:linkedin",
-      },
-      {
-        platform: "Dribbble",
-        url: "https://dribbble.com",
-        icon: "mdi:dribbble",
       },
     ],
     services: ["UI/UX Design", "Web Development", "Mobile Apps", "Consulting"],
