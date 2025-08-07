@@ -484,7 +484,7 @@ export const DATA = {
     socialLinks: [
       {
         platform: "LinkedIn",
-        url: "www.linkedin.com/in/wayland-branson",
+        url: "https://www.linkedin.com/in/wayland-branson",
         icon: "mdi:linkedin",
       },
     ],
