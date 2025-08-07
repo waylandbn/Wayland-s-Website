@@ -107,7 +107,7 @@ export const DATA = {
       image:
         "https://res.cloudinary.com/devq06psf/image/upload/v1750626859/chic_soba_apc1ht.png",
       description: [
-        "Marketing is a continuously evolving artform. It shifts with platforms, trends, and attention spans. I stay curious, keep learning, and adapt fast so I can create work that actually hits.",
+        "Marketing is a continuously evolving artform. It shifts with platforms, trends, and attention spans. I stay curious, keep learning, and adapt fast so I can create work that grabs attention.",
         "My work covers content strategy, SEO, writing, audio & visual production, and platform management. I’ve contributed to blogs, podcasts, social content, and campaign launches.",
         "Right now, I’m focused on learning by doing, staying consistent, and building work I’m not embarrassed to show. That’s the bar.",
       ],
@@ -118,7 +118,7 @@ export const DATA = {
         date: "2021 - 2026",
         icon: "mdi:palette",
         description:
-          "Studying Marketing with minors in Music and Entrepreneurship, with a concentration in classical guitar. That mix gives me a grounded understanding of how creative thinking and business strategy support each other.",
+          "Studying Marketing with minors in Music and Entrepreneurship, and a concentration in classical guitar. This mix gives me a grounded understanding of how creative thinking and business strategy support each other.",
       },
     ],
     experience: [
