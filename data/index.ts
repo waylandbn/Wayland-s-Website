@@ -1,7 +1,7 @@
 export const DATA = {
   home: {
     hero: {
-      name: "Sofiane Bahmed",
+      name: "Wayland Branson",
       title: "Full stack developer & UI/UX Designer",
       subtitle:
         "I build fast, accessible and visually engaging web experiences.",
