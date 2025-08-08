@@ -26,13 +26,13 @@ export const DATA = {
         {
           name: "Audio & Video Production",
           level: 90,
-          icon: "lucide:smartphone",
+          icon: "lucide:video",
           color: "success",
         },
         {
           name: "Site & Platform Management",
           level: 65,
-          icon: "lucide:video",
+          icon: "lucide:smartphone",
           color: "warning",
         },
       ],
