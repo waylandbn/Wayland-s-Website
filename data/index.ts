@@ -456,7 +456,7 @@ export const DATA = {
     },
   },
   morphingTexts: {
-    about: ["Creative", "Passionate", "Developer"] as const,
+    about: ["Creative", "Passionate", "Curious"] as const,
     projects: ["My Work", "Creations", "Experiments", "Innovations"] as const,
     contact: ["Let's", "Build", "Together"] as const,
   },
