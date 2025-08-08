@@ -108,7 +108,7 @@ export const DATA = {
         "https://media.licdn.com/dms/image/v2/D5603AQHA0gL2YirCgw/profile-displayphoto-scale_400_400/B56ZhPIGnMHkAk-/0/1753674181665?e=1757548800&v=beta&t=4sIZ673e0zobdbnIx4BMAg97tJM9cdO9ofmQLqd0C-4",
       description: [
         "Marketing is a continuously evolving artform. It shifts with platforms, trends, and attention spans. I stay curious, keep learning, and adapt fast so I can create work that grabs attention.",
-        "My work covers content strategy, SEO, writing, audio & visual production, and platform management. I’ve contributed to blogs, podcasts, social content, and campaign launches.",
+        "My work covers content strategy, SEO, writing, audio & visual production, and platform management. I’ve contributed to blogs, social content, web develpoment, and campaign launches.",
         "Right now, I’m focused on learning by doing, staying consistent, and building work I’m not embarrassed to show. That’s the bar.",
       ],
     },
