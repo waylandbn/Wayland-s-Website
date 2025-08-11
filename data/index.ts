@@ -19,7 +19,7 @@ export const DATA = {
         },
         {
           name: "SEO & Metadata Optimization",
-
+          level: 90,
           icon: "lucide:code",
           color: "secondary",
         },
