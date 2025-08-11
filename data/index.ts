@@ -205,9 +205,9 @@ export const DATA = {
     },
   },
   projects: {
-    sectionTitle: "Featured Projects",
+    sectionTitle: "Portfolio Features",
     sectionDescription:
-      "A selection of my recent projects showcasing UI/UX design and development expertise",
+      "A selection of campaigns and creative work showcasing my skills in digital marketing, content strategy, and brand storytelling.",
     work: [
       {
         id: 1,
