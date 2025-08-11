@@ -467,7 +467,7 @@ export const DATA = {
     { name: "Contact", href: "/contact", icon: "lucide:send" },
   ],
   footer: {
-    name: "Sofiane Bahmed",
+    name: "Wayland Branson",
     description: "Always interested in new projects and collaborations.",
     contact: {
       email: "morrisbranson@gmail.com",
@@ -481,6 +481,6 @@ export const DATA = {
         icon: "mdi:linkedin",
       },
     ],
-    services: ["UI/UX Design", "Web Development", "Mobile Apps", "Consulting"],
+    services: ["Content Strategy", "SEO & Metadata Optimization", "Audio & Video Production", "Site & Platform Management"],
   },
 } as const;
