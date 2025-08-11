@@ -38,8 +38,8 @@ export const DATA = {
       ],
     },
     testimonials: {
-      sectionTitle: "Client Testimonials",
-      sectionDescription: "What clients say about working together",
+      sectionTitle: "Testimonials",
+      sectionDescription: "What employers say about working together",
       items: [
         {
           id: 1,
