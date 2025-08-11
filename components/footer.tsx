@@ -66,7 +66,7 @@ export const Footer = () => {
         </div>
         <div className="border-t border-divider pt-8 text-center text-foreground-500">
           <p>
-            © {new Date().getFullYear()} {name}. made with &hearts;.
+            {name}
           </p>
         </div>
       </motion.div>
