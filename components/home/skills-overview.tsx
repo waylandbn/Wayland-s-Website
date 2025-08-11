@@ -50,13 +50,12 @@ export const SkillsOverviewSection = () => {
                     </div>
                     <div>
                       <h3 className="text-xl font-semibold">{skill.name}</h3>
-                      <p className="text-foreground-600">{skill.level}%</p>
                     </div>
                   </div>
                   <Progress
                     className="h-2"
                     color={skill.color}
-                    value={skill.level}
+                    value={100}
                   />
                 </CardBody>
               </Card>
