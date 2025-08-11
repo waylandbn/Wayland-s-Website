@@ -44,7 +44,7 @@ export const Navigation = () => {
               href="/"
               onClick={() => setIsMenuOpen(false)}
             >
-              Portfolio
+              Wayland Branson
             </Link>
           </motion.div>
         </NavbarBrand>
