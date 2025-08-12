@@ -216,7 +216,7 @@ export const DATA = {
           "A streamlined digital banking interface emphasizing clarity, speed, and intuitive design.",
         image: "https://img.heroui.chat/image/dashboard?w=600&h=400&u=1",
         gallery: [
-          "https://img.heroui.chat/image/dashboard?w=600&h=400&u=1",
+          "https://www.dropbox.com/scl/fi/eqc4qr2qxd55d4anfm5ez/campaign-01-cover.png?rlkey=it6jmxekwrmkrm9puljqkbuny&st=peexjs0j&raw=1",
           "https://img.heroui.chat/image/dashboard?w=600&h=400&u=1-1",
           "https://img.heroui.chat/image/dashboard?w=600&h=400&u=1-2",
           "https://img.heroui.chat/image/dashboard?w=600&h=400&u=1-3",
