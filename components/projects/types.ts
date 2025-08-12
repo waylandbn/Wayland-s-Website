@@ -1,8 +1,3 @@
-export type GalleryItem =
-  | string
-  | { type: "image"; src: string }
-  | { type: "video"; src: string; poster?: string };
-
 export interface Project {
   readonly id: number | string;
   readonly title: string;
@@ -12,7 +7,7 @@ export interface Project {
   readonly image: string;
   readonly github?: string;
   readonly live?: string;
-  readonly gallery: readonly GalleryItem[];
+  readonly gallery: readonly string[];
   tech: readonly {
     name: string;
     icon: string;
