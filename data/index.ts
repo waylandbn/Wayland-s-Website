@@ -217,7 +217,7 @@ export const DATA = {
         image: "https://img.heroui.chat/image/dashboard?w=600&h=400&u=1",
         gallery: [
           "https://www.dropbox.com/scl/fi/eqc4qr2qxd55d4anfm5ez/campaign-01-cover.png?rlkey=it6jmxekwrmkrm9puljqkbuny&st=peexjs0j&raw=1",
-          "https://img.heroui.chat/image/dashboard?w=600&h=400&u=1-1",
+          "https://www.dropbox.com/scl/fi/bn0xcrwo8b8ghn7ucqmi9/campaign-01-demo-01.mp4?rlkey=8ytoo8c1h7a57jzw1bgv9q8wt&st=3mtqn0p4&raw=1",
           "https://img.heroui.chat/image/dashboard?w=600&h=400&u=1-2",
           "https://img.heroui.chat/image/dashboard?w=600&h=400&u=1-3",
         ],
