@@ -223,7 +223,7 @@ export const DATA = {
         ],
         category: "Applications",
         details:
-          "A feature-rich digital banking app built with React and TailwindCSS, integrating seamless animations via Framer Motion. Designed with a mobile-first approach and a modular component system powered by TypeScript and Vite.",
+          "For the podcast Entrepreneur Perspectives by QuietLoud Studios, I manage social media channels, edit full episodes, and design promotional graphics to help the show grow its audience and stay consistent across platforms.",
         github: "https://github.com",
         live: "https://example.com",
         tech: [
