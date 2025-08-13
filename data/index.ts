@@ -211,15 +211,15 @@ export const DATA = {
     work: [
       {
         id: 1,
-        title: "Digital Banking App",
+        title: "Entrepreneur Perspectives",
         description:
-          "A streamlined digital banking interface emphasizing clarity, speed, and intuitive design.",
+          "Content creation and social media management for a podcast brand, including editing episodes and designing promotional graphics.",
         image: "https://img.heroui.chat/image/dashboard?w=600&h=400&u=1",
         gallery: [
-          "https://quietloudstudios.com/wp-content/uploads/2023/10/Entrepreneur-Perspectives-cover-2023-1-2048x2048.png",
-          "https://www.dropbox.com/scl/fi/bn0xcrwo8b8ghn7ucqmi9/campaign-01-demo-01.mp4?rlkey=8ytoo8c1h7a57jzw1bgv9q8wt&st=3mtqn0p4&raw=1",
-          "https://img.heroui.chat/image/dashboard?w=600&h=400&u=1-2",
-          "https://img.heroui.chat/image/dashboard?w=600&h=400&u=1-3",
+          "https://www.dropbox.com/scl/fi/x7uvli0uwxm4t61w0twxt/EP-logo.png?rlkey=i55yqimk7dq8dsbv5bcjah8wj&raw=1",
+          "https://www.dropbox.com/scl/fi/g2zw8dr43kfn3f8y1vlu5/EP-Instagram.png?rlkey=wx1zn3pz46wvsu0mzb5gw07g0&raw=1",
+          "https://www.dropbox.com/scl/fi/ocbck4si7puz32cm84xip/EP-TikTok.png?rlkey=rz9pemq1b9e8g9fejy7cgsasy&raw=1",
+          "https://www.dropbox.com/scl/fi/bu17i47ljqtb7xl9qfm8w/EP-Cover.png?rlkey=poe9n8j7c8er4z63ie8k4tkal&raw=1",
         ],
         category: "Applications",
         details:
