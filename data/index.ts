@@ -221,7 +221,7 @@ export const DATA = {
           "https://www.dropbox.com/scl/fi/ocbck4si7puz32cm84xip/EP-TikTok.png?rlkey=rz9pemq1b9e8g9fejy7cgsasy&raw=1",
           "https://www.dropbox.com/scl/fi/bu17i47ljqtb7xl9qfm8w/EP-Cover.png?rlkey=poe9n8j7c8er4z63ie8k4tkal&raw=1",
         ],
-        category: "Applications",
+        category: "Podcasting",
         details:
           "For the podcast Entrepreneur Perspectives by QuietLoud Studios, I manage social media channels, edit full episodes, and design promotional graphics to help the show grow its audience and stay consistent across platforms.",
         github: "https://github.com",
