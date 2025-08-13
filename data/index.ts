@@ -207,13 +207,13 @@ export const DATA = {
   projects: {
     sectionTitle: "Portfolio Features",
     sectionDescription:
-      "A selection of campaigns and creative work showcasing my skills in digital marketing, content strategy, and brand storytelling.",
+      "Ongoing content, SEO, and social media work for the podcast Entrepreneur Perspectives — including editing episodes, designing branded graphics, and publishing to the web.",
     work: [
       {
         id: 1,
         title: "Entrepreneur Perspectives",
         description:
-          "Content creation and social media management for the podcast brand, Entrepreneur Perspectives, including editing episodes and designing promotional graphics.",
+          "Ongoing content, SEO, and social media work for the podcast Entrepreneur Perspectives — including editing episodes, designing branded graphics, and publishing to the web.",
         image: "https://www.dropbox.com/scl/fi/x7uvli0uwxm4t61w0twxt/EP-logo.png?rlkey=i55yqimk7dq8dsbv5bcjah8wj&raw=1",
         gallery: [
           "https://www.dropbox.com/scl/fi/x7uvli0uwxm4t61w0twxt/EP-logo.png?rlkey=i55yqimk7dq8dsbv5bcjah8wj&raw=1",
@@ -223,7 +223,7 @@ export const DATA = {
         ],
         category: "Podcasting",
         details:
-          "For the podcast Entrepreneur Perspectives by QuietLoud Studios, I manage social media channels, edit full episodes, and design promotional graphics to help the show grow its audience and stay consistent across platforms. All materials shown are the property of QuietLoud Studios and used with permission.",
+          "For the Entrepreneur Perspectives podcast, I manage social media strategy, edit episodes, design branded graphics, optimize each release for SEO, and handle website publishing. The goal is to grow the audience and keep the show consistent across platforms. All materials shown are the property of QuietLoud Studios and used with permission.",
         github: "https://github.com",
         live: "https://example.com",
         tech: [
