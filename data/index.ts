@@ -223,7 +223,7 @@ export const DATA = {
         ],
         category: "Podcasting",
         details:
-          "For the podcast Entrepreneur Perspectives by QuietLoud Studios, I manage social media channels, edit full episodes, and design promotional graphics to help the show grow its audience and stay consistent across platforms.",
+          "For the podcast Entrepreneur Perspectives by QuietLoud Studios, I manage social media channels, edit full episodes, and design promotional graphics to help the show grow its audience and stay consistent across platforms. All materials shown are the property of QuietLoud Studios and used with permission.",
         github: "https://github.com",
         live: "https://example.com",
         tech: [
