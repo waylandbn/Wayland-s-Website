@@ -214,7 +214,7 @@ export const DATA = {
         title: "Entrepreneur Perspectives",
         description:
           "Content creation and social media management for a podcast brand, including editing episodes and designing promotional graphics.",
-        image: "https://img.heroui.chat/image/dashboard?w=600&h=400&u=1",
+        image: "https://www.dropbox.com/scl/fi/x7uvli0uwxm4t61w0twxt/EP-logo.png?rlkey=i55yqimk7dq8dsbv5bcjah8wj&raw=1",
         gallery: [
           "https://www.dropbox.com/scl/fi/x7uvli0uwxm4t61w0twxt/EP-logo.png?rlkey=i55yqimk7dq8dsbv5bcjah8wj&raw=1",
           "https://www.dropbox.com/scl/fi/g2zw8dr43kfn3f8y1vlu5/EP-Instagram.png?rlkey=wx1zn3pz46wvsu0mzb5gw07g0&raw=1",
