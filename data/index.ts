@@ -213,7 +213,7 @@ export const DATA = {
         id: 1,
         title: "Entrepreneur Perspectives",
         description:
-          "Content creation and social media management for a podcast brand, including editing episodes and designing promotional graphics.",
+          "Content creation and social media management for the podcast brand, Entrepreneur Perspectives, including editing episodes and designing promotional graphics.",
         image: "https://www.dropbox.com/scl/fi/x7uvli0uwxm4t61w0twxt/EP-logo.png?rlkey=i55yqimk7dq8dsbv5bcjah8wj&raw=1",
         gallery: [
           "https://www.dropbox.com/scl/fi/x7uvli0uwxm4t61w0twxt/EP-logo.png?rlkey=i55yqimk7dq8dsbv5bcjah8wj&raw=1",
