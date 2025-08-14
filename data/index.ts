@@ -152,7 +152,7 @@ export const DATA = {
       },
     ],
     technologies: {
-      frontend: {
+      Content Creation and Design: {
         description:
           "I craft dynamic, responsive UIs using modern JavaScript frameworks and CSS tools.",
         tools: [
