@@ -163,42 +163,47 @@ export const DATA = {
           { name: "Descript", icon: "logos:descript-icon" },
         ],
       },
-      backend: {
+      "Video & Audio Production": {
         description:
-          "I build fast APIs and scalable backends using Node.js, Bun, and Python.",
+          "I produce and edit video and audio content for social media, podcasts, radio, and promotional campaigns.",
         tools: [
-          { name: "Node.js", icon: "logos:nodejs-icon" },
-          { name: "Bun", icon: "logos:bun" },
-          { name: "Python", icon: "logos:python" },
-          { name: "MySQL", icon: "logos:mysql-icon" },
-          { name: "PostgresSQL", icon: "logos:postgresql" },
-          { name: "OpenAI", icon: "simple-icons:openai" },
+          { name: "Premier", icon: "skill-icons:premiere" },
+          { name: "Ableton", icon: "skill-icons:ableton-dark" },
+          { name: "Adobe Express", icon: "arcticons:adobe-express" },
+          { name: "ProTools", icon: "simple-icons:protools" },
+          { name: "Audacity", icon: "file-icons:audacity" },
         ],
       },
-      uiUx: {
+      "Social Media Marketing": {
         description:
-          "I design smooth, user-centered interfaces and high-fidelity prototypes.",
+          "I manage multi-platform campaigns, from short-form video to long-form storytelling, to grow brand presence.",
         tools: [
-          { name: "Figma", icon: "logos:figma" },
-          { name: "Framer", icon: "simple-icons:framer", color: "#0055FF" },
-          { name: "Notion", icon: "logos:notion-icon" },
+          { name: "TikTok", icon: "ic:baseline-tiktok" },
+          { name: "Instagram", icon: "skill-icons:instagram"},
+          { name: "YouTube", icon: "logos:youtube-icon" },
+          { name: "LinkedIn", icon: "skill-icons:linkedin" },
+          { name: "X", icon: "pajamas:twitter" }, 
+          { name: "WordPress", icon: "skill-icons:wordpress" },
         ],
       },
-      graphicDesign: {
+      "Analytics & Optimization": {
         description:
-          "My graphic work includes logos, branding, and posters using Adobe Suite.",
+          "I track, analyze, and optimize campaigns using data-driven insights to improve reach, engagement, and conversions.",
         tools: [
-          { name: "Photoshop", icon: "logos:adobe-photoshop" },
-          { name: "Illustrator", icon: "logos:adobe-illustrator" },
+          { name: "Google Analytics", icon: "devicon:google" },
+          { name: "Google Search Console", icon: "logos:google-search-console" },
+          { name: "Meta Business Suite", icon: "logos:meta-icon" },
+          { name: "TikTok Analytics", icon: "logos:tiktok-icon" },
+          { name: "YouTube Studio Analytics", icon: "simple-icons:youtubestudio" },
         ],
       },
-      motionDesign: {
+      "Web & Digital Platforms": {
         description:
-          "I animate UI flows and cinematic intros using After Effects and Blender.",
+          "I work within modern web environments to update, maintain, and tailor marketing websites using contemporary tools and frameworks.",
         tools: [
-          { name: "After Effects", icon: "logos:adobe-after-effects" },
-          { name: "Premiere Pro", icon: "logos:adobe-premiere" },
-          { name: "Blender", icon: "logos:blender" },
+          { name: "Next.js", icon: "nonicons:next-16" },
+          { name: "GitHub", icon: "skill-icons:github-dark" },
+          { name: "Vercel", icon: "skill-icons:vercel-dark" },
         ],
       },
     },
