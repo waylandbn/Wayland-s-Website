@@ -228,9 +228,9 @@ export const DATA = {
         live: "https://example.com",
         tech: [
           { name: "Photoshop", icon: "devicon:photoshop" },
-          { name: "TailwindCSS", icon: "logos:tailwindcss-icon" },
-          { name: "TypeScript", icon: "logos:typescript-icon" },
-          { name: "Expo", icon: "simple-icons:expo" },
+          { name: "WordPress", icon: "skill-icons:wordpress" },
+          { name: "Descript", icon: "logos:descript-icon" },
+          { name: "Perplexity", icon: "logos:perplexity-icon" },
         ],
       },
       {
