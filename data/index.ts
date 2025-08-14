@@ -292,7 +292,7 @@ export const DATA = {
         image: "https://www.dropbox.com/scl/fi/jcj3kbjetwbc5gz5nb4zo/kntu-4.png?rlkey=6yh6sadptx2br7sxntpp8upog&st=db4uh5ep&raw=1",
         gallery: [
           "https://www.dropbox.com/scl/fi/zhg7y55buao4319qre3y1/2-kntu.png?rlkey=rqwfjw3s1u28fhys0isp25lj8&st=s1w7ml2j&raw=1",
-          "https://www.dropbox.com/scl/fi/yckqv9p4gax5u9iuxg0bs/kntu-5.png?rlkey=v1q6l1adb2vk5trwyr6kyiq7e&",
+          "https://www.dropbox.com/scl/fi/yckqv9p4gax5u9iuxg0bs/kntu-5.png?rlkey=v1q6l1adb2vk5trwyr6kyiq7e&st=my9u4cji&raw=1",
           "https://www.dropbox.com/scl/fi/rdanuvkoh28e40l97q28m/3.-kntu.png?rlkey=syh782s5p9kqj8h8x3fn31jd4&st=n3episjy&raw=1",
           "https://www.dropbox.com/scl/fi/z4j42m50wdmuvsdsdrwbh/1-KNTU.png?rlkey=bhvmizywh9bn4bg6mpgjut5k3&st=91gy9r5y&raw=1",
         ],
