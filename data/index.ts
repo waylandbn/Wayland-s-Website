@@ -152,16 +152,15 @@ export const DATA = {
       },
     ],
     technologies: {
-      Content Creation and Design: {
+      "Content Creation and Design": {
         description:
-          "I craft dynamic, responsive UIs using modern JavaScript frameworks and CSS tools.",
+          "I create compelling visual and written content that aligns with brand identity and resonates with target audiences.",
         tools: [
-          { name: "React", icon: "logos:react" },
-          { name: "Next.js", icon: "skill-icons:nextjs-dark" },
-          { name: "Tailwind", icon: "logos:tailwindcss-icon" },
-          { name: "TypeScript", icon: "logos:typescript-icon" },
-          { name: "HTML5", icon: "logos:html-5" },
-          { name: "CSS3", icon: "logos:css-3" },
+          { name: "Photoshop", icon: "devicon:photoshop" },
+          { name: "Canva", icon: "simple-icons:canva" },
+          { name: "Adobe Express", icon: "arcticons:adobe-express" },
+          { name: "InDesign", icon: "iconoir:adobe-indesign" },
+          { name: "Descript", icon: "logos:descript-icon" },
         ],
       },
       backend: {
