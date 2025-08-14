@@ -82,7 +82,7 @@ export const ProjectModal = ({
                 rel="noopener noreferrer"
                 target="_blank"
               >
-                <Icon height={22} icon="mdi:tabler:link" width={22} />
+                <Icon height={22} icon="mdi:link-variant" width={22} />
               </a>
             )}
             {project.live && (
