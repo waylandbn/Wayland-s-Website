@@ -227,7 +227,7 @@ export const DATA = {
         github: "https://github.com",
         live: "https://example.com",
         tech: [
-          { name: "React", icon: "logos:react" },
+          { name: "Photoshop", icon: "devicon:photoshop" },
           { name: "TailwindCSS", icon: "logos:tailwindcss-icon" },
           { name: "TypeScript", icon: "logos:typescript-icon" },
           { name: "Expo", icon: "simple-icons:expo" },
