@@ -171,7 +171,7 @@ export const DATA = {
   projects: {
     sectionTitle: "Portfolio Features",
     sectionDescription:
-      "Descriptions of some of my Recent Projects",
+      "Descriptions of Some of my Recent Projects",
     work: [
       {
         id: 1,
