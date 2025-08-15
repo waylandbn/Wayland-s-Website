@@ -39,15 +39,15 @@ export const DATA = {
     },
     testimonials: {
       sectionTitle: "Testimonials",
-      sectionDescription: "What employers say about working together",
+      sectionDescription: "What employers and coworkers say about working together",
       items: [
         {
           id: 1,
-          name: "Sarah Johnson",
-          role: "Product Manager at TechNova",
+          name: "MacKenzie Staples MBA",
+          role: "Catalog Manager & Artist Relations Coordinator at Atrium Music",
           content:
-            "The design system created for our SaaS platform reduced our development time by 40% while improving consistency across all our products. The attention to accessibility standards was particularly impressive.",
-          avatar: "https://img.heroui.chat/image/avatar?w=100&h=100&u=1",
+            "Wayland was an incredible asset to my team at Atrium! He easily adapted to ever-changing business needs and continually produced top-tier work throughout his internship.",
+          avatar: "https://www.dropbox.com/scl/fi/viheo5nquaifd6ggq6r2u/MacKenzieStaples_Headshot.jpg?rlkey=nr54kb2q259x5zpnvf5b0rbae&st=szbd7jop&raw=1",
         },
         {
           id: 2,
