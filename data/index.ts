@@ -209,7 +209,8 @@ export const DATA = {
         category: "Blog Post",
         details:
           "Wrote a blog post for QuietLoud Studios sharing insights from my hands-on experience in podcast marketing, covering audience engagement, content repurposing, and multi-platform strategy. Please follow the link bellow to read.",
-        live: "https://quietloudstudios.com/podcast-content-marketing-lessons",
+        github: "https://kazsource.com",
+        live: "https://quietloudstudios.com/podcast-content-marketing-lessons/",
         tech: [
           { name: "WordPress", icon: "ic:baseline-wordpress" },
           { name: "Microsoft Word", icon: "file-icons:microsoft-word" },
