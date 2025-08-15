@@ -199,26 +199,20 @@ export const DATA = {
       },
       {
         id: 2,
-        title: "E-commerce Platform",
+        title: "Marketing Stories",
         description:
-          "Scalable and responsive online store with dynamic product filtering and intuitive cart management.",
-        image: "https://img.heroui.chat/image/dashboard?w=600&h=400&u=2",
+          "What Working on Podcasts Taught Me About Content Marketing",
+        image: "https://quietloudstudios.com/wp-content/uploads/2025/08/What-I-Learned-from-Podcast-Content-Marketing.png",
         gallery: [
-          "https://img.heroui.chat/image/dashboard?w=600&h=400&u=2",
-          "https://img.heroui.chat/image/dashboard?w=600&h=400&u=2-1",
-          "https://img.heroui.chat/image/dashboard?w=600&h=400&u=2-2",
-          "https://img.heroui.chat/image/dashboard?w=600&h=400&u=2-3",
+          "https://www.dropbox.com/scl/fi/tawd4ajmmub7svdbcw3fn/e-1.png?rlkey=ywhq6b3pu1l79exck35dles9y&st=xux24kqp&raw=1",
         ],
-        category: "Web Development",
+        category: "Blog Post",
         details:
-          "A fully functional e-commerce platform built with React and TailwindCSS. Features product listings, advanced filters, cart and checkout system, and a modern UI with responsive design for all devices.",
-        github: "https://github.com",
-        live: "https://example.com",
+          "Wrote a blog post for QuietLoud Studios sharing insights from my hands-on experience in podcast marketing, covering audience engagement, content repurposing, and multi-platform strategy.",
+        live: "https://quietloudstudios.com/podcast-content-marketing-lessons/",
         tech: [
-          { name: "React", icon: "logos:react" },
-          { name: "TailwindCSS", icon: "logos:tailwindcss-icon" },
-          { name: "TypeScript", icon: "logos:typescript-icon" },
-          { name: "PostgreSQL", icon: "logos:postgresql" },
+          { name: "WordPress", icon: "ic:baseline-wordpress" },
+          { name: "Microsoft Word", icon: "file-icons:microsoft-word" },
         ],
       },
       {
