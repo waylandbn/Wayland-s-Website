@@ -171,7 +171,7 @@ export const DATA = {
   projects: {
     sectionTitle: "Portfolio Features",
     sectionDescription:
-      "Ongoing content, SEO, and social media work for the podcast Entrepreneur Perspectives — including editing episodes, designing branded graphics, and publishing to the web.",
+      "Descriptions of some of my Recent Projects",
     work: [
       {
         id: 1,
