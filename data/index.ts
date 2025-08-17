@@ -177,7 +177,7 @@ export const DATA = {
         id: 1,
         title: "Entrepreneur Perspectives",
         description:
-          "Ongoing content, SEO, and social media work for the podcast Entrepreneur Perspectives — including editing episodes, designing branded graphics, and publishing to the web.",
+          "Content creation, SEO, and social media work for the podcast Entrepreneur Perspectives, including editing episodes, designing branded graphics, and publishing to the web.",
         image: "https://www.dropbox.com/scl/fi/x7uvli0uwxm4t61w0twxt/EP-logo.png?rlkey=i55yqimk7dq8dsbv5bcjah8wj&raw=1",
         gallery: [
           "https://www.dropbox.com/scl/fi/x7uvli0uwxm4t61w0twxt/EP-logo.png?rlkey=i55yqimk7dq8dsbv5bcjah8wj&raw=1",
@@ -187,7 +187,7 @@ export const DATA = {
         ],
         category: "Podcasting",
         details:
-          "For the Entrepreneur Perspectives podcast, I manage social media strategy, edit episodes, design branded graphics, optimize each release for SEO, and handle website publishing. The goal is to grow the audience and keep the show consistent across platforms. All materials shown are the property of QuietLoud Studios and used with permission.",
+          "Managing content, SEO, and social media for the podcast Entrepreneur Perspectives, including editing episodes, designing branded graphics, and publishing to the web. All materials shown are the property of QuietLoud Studios and used with permission.",
         github: "https://kazsource.com",
         live: "https://www.tiktok.com/@entrepreneurperspectives",
         instagram: "https://www.instagram.com/kazsource?utm_source=ig_web_button_share_sheet&igsh=dTl5MjdnYnVzaXU2",
@@ -202,15 +202,14 @@ export const DATA = {
         id: 2,
         title: "Marketing Stories",
         description:
-          "What Working on Podcasts Taught Me About Content Marketing",
+          "Wrote a blog post for QuietLoud Studios sharing practical lessons from podcast content marketing and how brands can use podcasts to strengthen their voice.",
         image: "https://quietloudstudios.com/wp-content/uploads/2025/08/What-I-Learned-from-Podcast-Content-Marketing.png",
         gallery: [
           "https://www.dropbox.com/scl/fi/tawd4ajmmub7svdbcw3fn/e-1.png?rlkey=ywhq6b3pu1l79exck35dles9y&st=xux24kqp&raw=1",
         ],
-        category: "Blog Post",
+        category: "Blogs",
         details:
-          "Wrote a blog post for QuietLoud Studios sharing insights from my hands-on experience in podcast marketing, covering audience engagement, content repurposing, and multi-platform strategy. Please follow the link bellow to read.",
-        github: "https://quietloudstudios.com/podcast-content-marketing-lessons/",
+          "Authored a blog post for QuietLoud Studios on podcast content marketing, reflecting on the lessons I learned while producing, editing, and promoting podcasts. The article highlights strategies for building a brand voice, repurposing audio into effective content, and creating engagement by focusing on listening first. All materials shown are the property of QuietLoud Studios and used with permission.",
         live: "https://quietloudstudios.com/podcast-content-marketing-lessons/",
         tech: [
           { name: "WordPress", icon: "ic:baseline-wordpress" },
@@ -244,7 +243,7 @@ export const DATA = {
         id: 4,
         title: "88.1 KNTU",
         description:
-          "Rebranded 88.1 KNTU to modernize its image and better reflect its evolving music programming. Delivered a refreshed visual identity, unified brand voice, and updated digital presence across social media, website, and on-air promotions—strengthening audience engagement and station recognition.",
+          "Rebranded 88.1 KNTU with a modern visual identity and unified brand voice, updating its presence across social media, website, and on-air promotions.",
         image: "https://www.dropbox.com/scl/fi/jcj3kbjetwbc5gz5nb4zo/kntu-4.png?rlkey=6yh6sadptx2br7sxntpp8upog&st=db4uh5ep&raw=1",
         gallery: [
           "https://www.dropbox.com/scl/fi/zhg7y55buao4319qre3y1/2-kntu.png?rlkey=rqwfjw3s1u28fhys0isp25lj8&st=s1w7ml2j&raw=1",
@@ -252,9 +251,9 @@ export const DATA = {
           "https://www.dropbox.com/scl/fi/rdanuvkoh28e40l97q28m/3.-kntu.png?rlkey=syh782s5p9kqj8h8x3fn31jd4&st=n3episjy&raw=1",
           "https://www.dropbox.com/scl/fi/z4j42m50wdmuvsdsdrwbh/1-KNTU.png?rlkey=bhvmizywh9bn4bg6mpgjut5k3&st=91gy9r5y&raw=1",
         ],
-        category: "Radio",
+        category: "Broadcasting and Radio",
         details:
-          "Rebranded 88.1 KNTU to modernize its image and better reflect its evolving music programming. Delivered a refreshed visual identity, unified brand voice, and updated digital presence across social media, website, and on-air promotions—strengthening audience engagement and station recognition.",
+          "Rebranded 88.1 KNTU to modernize its image and reflect evolving music programming. Delivered a refreshed visual identity, established a consistent brand voice, and expanded the station’s digital presence across social media, website, and on-air promotions, resulting in stronger audience engagement and recognition.",
         github: "https://github.comhttps://kntu.com/",
         tech: [
           { name: "Adobe Photoshop", icon: "devicon:photoshop" },
