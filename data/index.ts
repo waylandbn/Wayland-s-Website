@@ -210,7 +210,7 @@ export const DATA = {
         category: "Blogs",
         details:
           "Authored a blog post for QuietLoud Studios on podcast content marketing, reflecting on the lessons I learned while producing, editing, and promoting podcasts. The article highlights strategies for building a brand voice, repurposing audio into effective content, and creating engagement by focusing on listening first. All materials shown are the property of QuietLoud Studios and used with permission.",
-        live: "https://quietloudstudios.com/podcast-content-marketing-lessons/",
+        github: "https://quietloudstudios.com/podcast-content-marketing-lessons/",
         tech: [
           { name: "WordPress", icon: "ic:baseline-wordpress" },
           { name: "Microsoft Word", icon: "file-icons:microsoft-word" },
