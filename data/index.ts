@@ -190,6 +190,7 @@ export const DATA = {
           "For the Entrepreneur Perspectives podcast, I manage social media strategy, edit episodes, design branded graphics, optimize each release for SEO, and handle website publishing. The goal is to grow the audience and keep the show consistent across platforms. All materials shown are the property of QuietLoud Studios and used with permission.",
         github: "https://kazsource.com",
         live: "https://www.tiktok.com/@entrepreneurperspectives",
+        instagram: "https://www.instagram.com/kazsource?utm_source=ig_web_button_share_sheet&igsh=dTl5MjdnYnVzaXU2",
         tech: [
           { name: "Photoshop", icon: "devicon:photoshop" },
           { name: "WordPress", icon: "skill-icons:wordpress" },
