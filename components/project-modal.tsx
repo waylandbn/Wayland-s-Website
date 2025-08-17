@@ -93,7 +93,7 @@ export const ProjectModal = ({
                 rel="noopener noreferrer"
                 target="_blank"
               >
-                <Icon height={22} icon="mdi:tiktok" width={22} />
+                <Icon height={22} icon="logos:tiktok-icon" width={22} />
               </a>
             )}
           </div>
