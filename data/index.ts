@@ -252,15 +252,16 @@ export const DATA = {
           "https://www.dropbox.com/scl/fi/rdanuvkoh28e40l97q28m/3.-kntu.png?rlkey=syh782s5p9kqj8h8x3fn31jd4&st=n3episjy&raw=1",
           "https://www.dropbox.com/scl/fi/z4j42m50wdmuvsdsdrwbh/1-KNTU.png?rlkey=bhvmizywh9bn4bg6mpgjut5k3&st=91gy9r5y&raw=1",
         ],
-        category: "Station Rebrand",
+        category: "Radio",
         details:
           "Rebranded 88.1 KNTU to modernize its image and better reflect its evolving music programming. Delivered a refreshed visual identity, unified brand voice, and updated digital presence across social media, website, and on-air promotions—strengthening audience engagement and station recognition.",
         github: "https://github.comhttps://kntu.com/",
         tech: [
-          { name: "React", icon: "logos:react" },
-          { name: "TailwindCSS", icon: "logos:tailwindcss-icon" },
-          { name: "OpenAI API", icon: "simple-icons:openai" },
-          { name: "Vercel", icon: "simple-icons:vercel" },
+          { name: "Adobe Photoshop", icon: "devicon:photoshop" },
+          { name: "Adobe Premier", icon: "skill-icons:premiere" },
+          { name: "HubSpot", icon: "simple-icons:hubspot" },
+          { name: "Microsoft Excel", icon: "vscode-icons:file-type-excel" }, 
+          { name: "ProTools", icon: "simple-icons:protools" },          
         ],
       },
       {
