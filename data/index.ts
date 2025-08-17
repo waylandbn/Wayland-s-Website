@@ -218,25 +218,26 @@ export const DATA = {
       },
       {
         id: 3,
-        title: "Travel Booking System",
+        title: "Portfolio Website",
         description:
-          "Comprehensive booking platform for flights, hotels, and rentals with live availability.",
-        image: "https://img.heroui.chat/image/dashboard?w=600&h=400&u=3",
+          "Designed and developed my personal portfolio website with GitHub and Vercel, showcasing marketing, content, and design work in a clean and responsive format.",
+        image: "https://www.dropbox.com/scl/fi/uethqjdky0zq6dc5oskl0/w5.png?rlkey=fiwtucpqxpzp60akhb4kliwo5&st=xccb9zd1&raw=1",
         gallery: [
-          "https://img.heroui.chat/image/dashboard?w=600&h=400&u=3",
-          "https://img.heroui.chat/image/dashboard?w=600&h=400&u=3-1",
-          "https://img.heroui.chat/image/dashboard?w=600&h=400&u=3-2",
-          "https://img.heroui.chat/image/dashboard?w=600&h=400&u=3-3",
+          "https://www.dropbox.com/scl/fi/p52sboh57raxq9r4hvx81/w1.png?rlkey=pwttspjnugf0fyxtge2og2ol9&st=xqka5lxt&raw=1",
+          "https://www.dropbox.com/scl/fi/sjd5t816lbr56xrtm8b1o/w2.png?rlkey=nirnxky2ii1lrk96wt0fvl2jy&raw=1",
+          "https://www.dropbox.com/scl/fi/1r0cwsr84m69jqe0paru0/w3.png?rlkey=zdw91hl779irfg9gzt8zeec4i&st=ynl8ud7j&raw=1",
+          "https://www.dropbox.com/scl/fi/a46ha44if6z5rvff3thhp/w4.png?rlkey=rp4ug2zijot7df2qp08zvz0vs&st=qvv7si26&raw=1",
         ],
         category: "Web Development",
         details:
-          "A modern travel booking system built with Next.js and TailwindCSS. Users can search and book flights, hotels, and car rentals with real-time availability and intuitive UI components powered by HeroUI.",
-        github: "https://github.com",
-        live: "https://example.com",
+          "Built my personal portfolio website from the ground up using a modern React/Next.js template, customized with GitHub and Vercel for seamless deployment. I tailored the design, structure, and iconography to highlight my marketing, content creation, and design projects in a clear, professional format. This project demonstrates not only my ability to create and present digital work but also my adaptability in learning new tools and frameworks to support professional branding.",
+        github: "waylandbranson.com",
         tech: [
           { name: "Next.js", icon: "skill-icons:nextjs-dark" },
           { name: "TailwindCSS", icon: "logos:tailwindcss-icon" },
           { name: "TypeScript", icon: "logos:typescript-icon" },
+          { name: "Vercel", icon: "skill-icons:vercel-light" },
+          { name: "Github", icon: "mdi:github" },
         ],
       },
       {
