@@ -72,7 +72,7 @@ export const ProjectModal = ({
             )}
           </ModalBody>
         </ScrollShadow>
-        {(project.github || project.live) && (
+        {(project.github || project.live || project.instagram) && (
           <div className="flex justify-end mb-4 px-6 gap-3">
             {project.github && (
               <a
