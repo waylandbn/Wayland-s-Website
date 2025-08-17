@@ -96,9 +96,19 @@ export const ProjectModal = ({
                 <Icon height={22} icon="logos:tiktok-icon" width={22} />
               </a>
             )}
+              {project.instagram && (
+              <a
+                aria-label="Instagram"
+                className="text-foreground-500 hover:text-foreground transition"
+                href={project.instagram}
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <Icon height={22} icon="skill-icons:instagram" width={22} />
+              </a>
+            )}
           </div>
         )}
-
         <ModalFooter className="flex flex-wrap gap-3 justify-end border-t border-white/20">
           <Button
             className="text-foreground-500"
