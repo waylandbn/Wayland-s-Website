@@ -185,7 +185,7 @@ export const DATA = {
           "https://www.dropbox.com/scl/fi/ocbck4si7puz32cm84xip/EP-TikTok.png?rlkey=rz9pemq1b9e8g9fejy7cgsasy&raw=1",
           "https://www.dropbox.com/scl/fi/bu17i47ljqtb7xl9qfm8w/EP-Cover.png?rlkey=poe9n8j7c8er4z63ie8k4tkal&raw=1",
         ],
-        category: "Podcasting",
+        category: "Campaign Management",
         details:
           "Managing content, SEO, and social media for the podcast Entrepreneur Perspectives, including editing episodes, designing branded graphics, and publishing to the web. All materials shown are the property of QuietLoud Studios and used with permission.",
         github: "https://kazsource.com",
@@ -266,142 +266,25 @@ export const DATA = {
       },
       {
         id: 5,
-        title: "Portfolio API & CMS",
+        title: "Altered State of Affairs Series",
         description:
-          "Headless API backend with admin-friendly CMS capabilities.",
-        image: "https://img.heroui.chat/image/dashboard?w=600&h=400&u=5",
+          "Marketing campaign management for the Altered State of Affairs series, including social media, podcast promotion, and original graphic and video content.",
+        image: "https://www.dropbox.com/scl/fi/bmw7abovt0wpzbekbgqx0/as2.png?rlkey=bd0385bnlgjctrp31up9a135m&st=2ng5es7u&raw=1",
         gallery: [
-          "https://img.heroui.chat/image/dashboard?w=600&h=400&u=5",
-          "https://img.heroui.chat/image/dashboard?w=600&h=400&u=5-1",
-          "https://img.heroui.chat/image/dashboard?w=600&h=400&u=5-2",
-          "https://img.heroui.chat/image/dashboard?w=600&h=400&u=5-3",
+          "https://www.dropbox.com/scl/fi/u6z9r44rjztdtvph5qh17/as4.png?rlkey=bwsuaq4kz29ym9z88l54hlml0&raw=1",
+          "https://www.dropbox.com/scl/fi/ii0lr8m86ag33cehiah2o/as5.png?rlkey=fhbz3zdlo3mki8kb79zsqbwgy&raw=1",
+          "https://www.dropbox.com/scl/fi/7ktiypcnsnhx4g9pzwdpa/as3.png?rlkey=9bjp8gkxvwxsj2272le3ne5hx&raw=1",
+          "https://www.dropbox.com/scl/fi/ayzpaubconoz66ay5cguh/as1.png?rlkey=q0bltmhjb74f18xe2ykm3mciz&raw=1",
         ],
-        category: "Backend Services",
+        category: "Campaign Management",
         details:
-          "A modular REST API built with Node.js and Express, powering dynamic portfolio websites. It includes JWT-based authentication, MySQL integration, and a Swagger-documented CMS interface for easy content management by non-developers.",
-        github: "https://github.com",
+          "Directs digital marketing for Jerald Kasimov’s Altered State of Affairs book series, building a multi-platform campaign to expand readership and brand presence. Creates custom graphics and short-form video content, manages social media accounts, and produces podcast tie-ins to boost visibility. Monitored performance metrics across platforms to refine strategy and drive consistent audience growth. All materials shown are the property of QuietLoud Studios and used with permission.",
+        live: "https://www.tiktok.com/@jeraldkasimov",
         tech: [
-          { name: "Node.js", icon: "logos:nodejs-icon" },
-          { name: "MySQL", icon: "logos:mysql-icon" },
-          { name: "JWT", icon: "simple-icons:jsonwebtokens" },
-          { name: "Swagger", icon: "simple-icons:swagger" },
-        ],
-      },
-      {
-        id: 6,
-        title: "Fitness Tracker App",
-        description:
-          "Monitor workouts, calorie intake, and goals in one place.",
-        image: "https://img.heroui.chat/image/dashboard?w=600&h=400&u=6",
-        gallery: [
-          "https://img.heroui.chat/image/dashboard?w=600&h=400&u=6",
-          "https://img.heroui.chat/image/dashboard?w=600&h=400&u=6-1",
-          "https://img.heroui.chat/image/dashboard?w=600&h=400&u=6-2",
-          "https://img.heroui.chat/image/dashboard?w=600&h=400&u=6-3",
-        ],
-        category: "Applications",
-        details:
-          "A cross-platform fitness application developed with React Native and styled using TailwindCSS via Expo. It offers calorie tracking, workout logging, analytics via charts, and custom goal-setting—all within a mobile-optimized interface.",
-        github: "https://github.com",
-        live: "https://example.com",
-        tech: [
-          { name: "React Native", icon: "logos:react" },
-          { name: "TailwindCSS", icon: "logos:tailwindcss-icon" },
-          { name: "Expo", icon: "simple-icons:expo" },
-        ],
-      },
-      {
-        id: 7,
-        title: "Content Scheduler",
-        description:
-          "Plan, schedule, and automate your social media posts effortlessly.",
-        image: "https://img.heroui.chat/image/dashboard?w=600&h=400&u=7",
-        gallery: [
-          "https://img.heroui.chat/image/dashboard?w=600&h=400&u=7",
-          "https://img.heroui.chat/image/dashboard?w=600&h=400&u=7-1",
-          "https://img.heroui.chat/image/dashboard?w=600&h=400&u=7-2",
-          "https://img.heroui.chat/image/dashboard?w=600&h=400&u=7-3",
-        ],
-        category: "Applications",
-        details:
-          "A productivity app designed for content creators featuring calendar syncing, automated post publishing, rich media previews, and cloud synchronization for seamless cross-device access.",
-        github: "https://github.com",
-        live: "https://example.com",
-        tech: [
-          { name: "Next.js", icon: "skill-icons:nextjs-dark" },
-          { name: "MySQL", icon: "logos:mysql-icon" },
-          { name: "TailwindCSS", icon: "logos:tailwindcss-icon" },
-        ],
-      },
-      {
-        id: 8,
-        title: "Real Estate Dashboard",
-        description:
-          "Comprehensive dashboard to manage properties, leads, and sales pipelines effectively.",
-        image: "https://img.heroui.chat/image/dashboard?w=600&h=400&u=8",
-        gallery: [
-          "https://img.heroui.chat/image/dashboard?w=600&h=400&u=8",
-          "https://img.heroui.chat/image/dashboard?w=600&h=400&u=8-1",
-          "https://img.heroui.chat/image/dashboard?w=600&h=400&u=8-2",
-          "https://img.heroui.chat/image/dashboard?w=600&h=400&u=8-3",
-        ],
-        category: "Web Development",
-        details:
-          "An admin panel tailored for real estate professionals featuring interactive data visualizations, lead tracking, and CRM system integrations to streamline client and property management.",
-        github: "https://github.com",
-        live: "https://example.com",
-        tech: [
-          { name: "React", icon: "logos:react" },
-          { name: "TailwindCSS", icon: "logos:tailwindcss-icon" },
-          { name: "Chart.js", icon: "simple-icons:chartdotjs" },
-        ],
-      },
-      {
-        id: 9,
-        title: "Crypto Wallet API",
-        description:
-          "Robust backend API for secure cryptocurrency operations and blockchain interactions.",
-        image: "https://img.heroui.chat/image/dashboard?w=600&h=400&u=9",
-        gallery: [
-          "https://img.heroui.chat/image/dashboard?w=600&h=400&u=9",
-          "https://img.heroui.chat/image/dashboard?w=600&h=400&u=9-1",
-          "https://img.heroui.chat/image/dashboard?w=600&h=400&u=9-2",
-          "https://img.heroui.chat/image/dashboard?w=600&h=400&u=9-3",
-        ],
-        category: "Backend Services",
-        details:
-          "Secure Node.js API supporting Ethereum and Bitcoin transactions. Features transaction signing, wallet address creation, and real-time blockchain event monitoring using Web3.js. Enhanced with hardware security module (HSM) integration for secure key management.",
-        github: "https://github.com",
-        tech: [
-          { name: "Node.js", icon: "logos:nodejs-icon" },
-          { name: "Ethereum", icon: "logos:ethereum" },
-          { name: "Web3.js", icon: "simple-icons:web3dotjs" },
-          { name: "PostgreSQL", icon: "logos:postgresql" },
-          { name: "JWT", icon: "simple-icons:jsonwebtokens" },
-        ],
-      },
-      {
-        id: 10,
-        title: "SaaS Subscription API",
-        description:
-          "Backend API managing SaaS subscriptions, billing, and user accounts.",
-        image: "https://img.heroui.chat/image/dashboard?w=600&h=400&u=10",
-        gallery: [
-          "https://img.heroui.chat/image/dashboard?w=600&h=400&u=10",
-          "https://img.heroui.chat/image/dashboard?w=600&h=400&u=10-1",
-          "https://img.heroui.chat/image/dashboard?w=600&h=400&u=10-2",
-          "https://img.heroui.chat/image/dashboard?w=600&h=400&u=10-3",
-        ],
-        category: "Backend Services",
-        details:
-          "RESTful API supporting SaaS subscription workflows with Stripe integration, usage metering, tiered pricing, webhook handling, trial periods, and analytics. Optimized for high concurrency with Redis caching.",
-        github: "https://github.com",
-        tech: [
-          { name: "Node.js", icon: "logos:nodejs-icon" },
-          { name: "Stripe", icon: "logos:stripe" },
-          { name: "PostgreSQL", icon: "logos:postgresql" },
-          { name: "Redis", icon: "logos:redis" },
-          { name: "JWT", icon: "simple-icons:jsonwebtokens" },
+          { name: "Photoshop", icon: "devicon:photoshop" },
+          { name: "WordPress", icon: "skill-icons:wordpress" },
+          { name: "Descript", icon: "logos:descript-icon" },
+          { name: "Perplexity", icon: "logos:perplexity-icon" },
         ],
       },
     ],
