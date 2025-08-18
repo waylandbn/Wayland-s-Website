@@ -230,7 +230,7 @@ export const DATA = {
         ],
         category: "Web Development",
         details:
-          "Built my personal portfolio website from the ground up using a modern React/Next.js template, customized with GitHub and Vercel for seamless deployment. I tailored the design, structure, and iconography to highlight my marketing, content creation, and design projects in a clear, professional format. This project demonstrates not only my ability to create and present digital work but also my adaptability in learning new tools and frameworks to support professional branding.",
+          "Built s personal portfolio website from the ground up using a modern React/Next.js template, customized with GitHub and Vercel for seamless deployment. I tailored the design, structure, and iconography to highlight my marketing, content creation, and design projects in a clear, professional format. This project demonstrates not only my ability to create and present digital work but also my adaptability in learning new tools and frameworks to support professional branding.",
         github: "https://www.waylandbranson.com",
         tech: [
           { name: "Next.js", icon: "skill-icons:nextjs-dark" },
