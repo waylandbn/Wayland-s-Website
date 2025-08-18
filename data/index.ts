@@ -282,8 +282,7 @@ export const DATA = {
         live: "https://www.tiktok.com/@jeraldkasimov",
         tech: [
           { name: "Photoshop", icon: "devicon:photoshop" },
-          { name: "WordPress", icon: "skill-icons:wordpress" },
-          { name: "Descript", icon: "logos:descript-icon" },
+          { name: "Adobe Express", icon: "arcticons:adobe-express" },
           { name: "Perplexity", icon: "logos:perplexity-icon" },
         ],
       },
