@@ -235,7 +235,6 @@ export const DATA = {
           "Managing content, SEO, and social media for the brand SportsEpreneur, including updating the website, publishing content, designing branded graphics, and managing social media accounts. All materials shown are the property of QuietLoud Studios and used with permission.",
         github: "https://sportsepreneur.com",
         live: "https://www.tiktok.com/@sportsemedia?lang=en",
-        instagram: "https://www.tiktok.com/@sportsemedia?lang=en",
         tech: [
           { name: "Photoshop", icon: "devicon:photoshop" },
           { name: "WordPress", icon: "skill-icons:wordpress" },
