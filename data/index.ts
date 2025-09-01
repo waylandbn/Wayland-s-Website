@@ -78,7 +78,7 @@ export const DATA = {
         date: "2021 - 2026",
         icon: "mdi:palette",
         description:
-          "Studying Marketing with minors in Music and Entrepreneurship, and a concentration in classical guitar. This mix gives me a grounded understanding of how creative thinking and business strategy support each other.",
+          "Studying Marketing with minors in Music and Entrepreneurship, and a concentration in classical guitar. This mix gives me a grounded understanding of how creative thinking and business strategy support each other. Through music I discovered my interest in promotion and audience connection, which now shapes the way I approach marketing as both an art and a discipline.",
       },
     ],
     experience: [
