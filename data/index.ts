@@ -184,6 +184,8 @@ export const DATA = {
           "https://www.dropbox.com/scl/fi/g2zw8dr43kfn3f8y1vlu5/EP-Instagram.png?rlkey=wx1zn3pz46wvsu0mzb5gw07g0&raw=1",
           "https://www.dropbox.com/scl/fi/ocbck4si7puz32cm84xip/EP-TikTok.png?rlkey=rz9pemq1b9e8g9fejy7cgsasy&raw=1",
           "https://www.dropbox.com/scl/fi/bu17i47ljqtb7xl9qfm8w/EP-Cover.png?rlkey=poe9n8j7c8er4z63ie8k4tkal&raw=1",
+          "https://www.dropbox.com/scl/fi/9cvmtgascyh95e6gdt6td/ep-stats.png?rlkey=mapc1vj68sh3hahclcdo8tk4v&st=n105yb5l&raw=1",
+          "https://www.dropbox.com/scl/fi/71aec6bq8iuwkvpr29sjk/ep-transistor.png?rlkey=rfnosrrtlqo09iuctibbetmzl&st=pgw4esla&raw=1",
         ],
         category: "Campaign Management",
         details:
@@ -218,26 +220,27 @@ export const DATA = {
       },
       {
         id: 3,
-        title: "Portfolio Website",
+        title: "SportsEPreneur",
         description:
-          "Designed and developed my personal portfolio website with GitHub and Vercel, showcasing marketing, content, and design work in a clean and responsive format.",
-        image: "https://www.dropbox.com/scl/fi/uethqjdky0zq6dc5oskl0/w5.png?rlkey=fiwtucpqxpzp60akhb4kliwo5&st=xccb9zd1&raw=1",
+          "Driving SEO, content creation, and social media management for SportsEpreneur, including website updates and branded graphic design.",
+        image: "https://www.dropbox.com/scl/fi/wpjyx832ktiyywh7lqix9/SE-Logo.png?rlkey=6pd1g73egjoh4nqhh81150pr9&st=r57kvivd&raw=1",
         gallery: [
-          "https://www.dropbox.com/scl/fi/p52sboh57raxq9r4hvx81/w1.png?rlkey=pwttspjnugf0fyxtge2og2ol9&st=xqka5lxt&raw=1",
-          "https://www.dropbox.com/scl/fi/sjd5t816lbr56xrtm8b1o/w2.png?rlkey=nirnxky2ii1lrk96wt0fvl2jy&raw=1",
-          "https://www.dropbox.com/scl/fi/1r0cwsr84m69jqe0paru0/w3.png?rlkey=zdw91hl779irfg9gzt8zeec4i&st=ynl8ud7j&raw=1",
-          "https://www.dropbox.com/scl/fi/a46ha44if6z5rvff3thhp/w4.png?rlkey=rp4ug2zijot7df2qp08zvz0vs&st=qvv7si26&raw=1",
+          "https://www.dropbox.com/scl/fi/eb8593mx7i2q5ua6bg1sd/SE-1.png?rlkey=wd1u5va1kiykuxwq1nligndvz&st=ut366z96&raw=1",
+          "https://www.dropbox.com/scl/fi/fnfqpnghgfslwo91zjck6/SE2.png?rlkey=stzznu3u4cwnk4ecmzrg6crke&st=f8fprmlg&raw=1",
+          "https://www.dropbox.com/scl/fi/pn5ep793uwwv2xbxqp78p/SE3.png?rlkey=zu45bcy0qqsuwnea27h7nj3z0&st=x7n3wsph&raw=1",
+          "https://www.dropbox.com/scl/fi/jk8kpvbb47y2617fxqccm/SE4.png?rlkey=vcei7s9pgudk03u5jndth1gm3&st=hjiwaao1&raw=1",
         ],
-        category: "Web Development",
+        category: "Campaign Management",
         details:
-          "Built s personal portfolio website from the ground up using a modern React/Next.js template, customized with GitHub and Vercel for seamless deployment. I tailored the design, structure, and iconography to highlight my marketing, content creation, and design projects in a clear, professional format. This project demonstrates not only my ability to create and present digital work but also my adaptability in learning new tools and frameworks to support professional branding.",
-        github: "https://www.waylandbranson.com",
+          "Managing content, SEO, and social media for the brand SportsEpreneur, including updating the website, publishing content, designing branded graphics, and managing social media accounts. All materials shown are the property of QuietLoud Studios and used with permission.",
+        github: "https://sportsepreneur.com",
+        live: "https://www.tiktok.com/@sportsemedia?lang=en",
+        instagram: "https://www.tiktok.com/@sportsemedia?lang=en",
         tech: [
-          { name: "Next.js", icon: "skill-icons:nextjs-dark" },
-          { name: "TailwindCSS", icon: "logos:tailwindcss-icon" },
-          { name: "TypeScript", icon: "logos:typescript-icon" },
-          { name: "Vercel", icon: "skill-icons:vercel-light" },
-          { name: "Github", icon: "mdi:github" },
+          { name: "Photoshop", icon: "devicon:photoshop" },
+          { name: "WordPress", icon: "skill-icons:wordpress" },
+          { name: "Descript", icon: "logos:descript-icon" },
+          { name: "Perplexity", icon: "logos:perplexity-icon" },
         ],
       },
       {
@@ -255,7 +258,7 @@ export const DATA = {
         category: "Broadcasting and Radio",
         details:
           "Rebranded 88.1 KNTU to modernize its image and reflect evolving music programming. Delivered a refreshed visual identity, established a consistent brand voice, and expanded the station’s digital presence across social media, website, and on-air promotions, resulting in stronger audience engagement and recognition.",
-        github: "https://github.comhttps://kntu.com/",
+        github: "https://kntu.com",
         tech: [
           { name: "Adobe Photoshop", icon: "devicon:photoshop" },
           { name: "Adobe Premier", icon: "skill-icons:premiere" },
@@ -286,6 +289,30 @@ export const DATA = {
           { name: "Perplexity", icon: "logos:perplexity-icon" },
         ],
       },
+      {
+         id: 6,
+        title: "Portfolio Website",
+        description:
+          "Designed and developed my personal portfolio website with GitHub and Vercel, showcasing marketing, content, and design work in a clean and responsive format.",
+        image: "https://www.dropbox.com/scl/fi/uethqjdky0zq6dc5oskl0/w5.png?rlkey=fiwtucpqxpzp60akhb4kliwo5&st=xccb9zd1&raw=1",
+        gallery: [
+          "https://www.dropbox.com/scl/fi/p52sboh57raxq9r4hvx81/w1.png?rlkey=pwttspjnugf0fyxtge2og2ol9&st=xqka5lxt&raw=1",
+          "https://www.dropbox.com/scl/fi/sjd5t816lbr56xrtm8b1o/w2.png?rlkey=nirnxky2ii1lrk96wt0fvl2jy&raw=1",
+          "https://www.dropbox.com/scl/fi/1r0cwsr84m69jqe0paru0/w3.png?rlkey=zdw91hl779irfg9gzt8zeec4i&st=ynl8ud7j&raw=1",
+          "https://www.dropbox.com/scl/fi/a46ha44if6z5rvff3thhp/w4.png?rlkey=rp4ug2zijot7df2qp08zvz0vs&st=qvv7si26&raw=1",
+        ],
+        category: "Web Development",
+        details:
+          "Built s personal portfolio website from the ground up using a modern React/Next.js template, customized with GitHub and Vercel for seamless deployment. I tailored the design, structure, and iconography to highlight my marketing, content creation, and design projects in a clear, professional format. This project demonstrates not only my ability to create and present digital work but also my adaptability in learning new tools and frameworks to support professional branding.",
+        github: "https://www.waylandbranson.com",
+        tech: [
+          { name: "Next.js", icon: "skill-icons:nextjs-dark" },
+          { name: "TailwindCSS", icon: "logos:tailwindcss-icon" },
+          { name: "TypeScript", icon: "logos:typescript-icon" },
+          { name: "Vercel", icon: "skill-icons:vercel-light" },
+          { name: "Github", icon: "mdi:github" },
+        ],
+      },     
     ],
   },
   contact: {
