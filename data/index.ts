@@ -338,7 +338,7 @@ export const DATA = {
     name: "Wayland Branson",
     description: "Always interested in new projects and collaborations.",
     contact: {
-      email: "morrisbranson@gmail.com",
+      email: "wayland@waylandbranson.com",
       phone: "+1 (469) 408-7059",
       location: "Dallas / Austin, TX",
     },
