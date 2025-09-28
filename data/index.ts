@@ -180,6 +180,7 @@ export const DATA = {
           "Content creation, SEO, and social media work for the podcast Entrepreneur Perspectives, including editing episodes, designing branded graphics, and publishing to the web.",
         image: "https://www.dropbox.com/scl/fi/x7uvli0uwxm4t61w0twxt/EP-logo.png?rlkey=i55yqimk7dq8dsbv5bcjah8wj&raw=1",
         gallery: [
+          { type: "video", url: "https://www.tiktok.com/@entrepreneurperspectives/video/7546739462814829854?is_from_webapp=1&sender_device=pc&web_id=7551471361529660958" },
           "https://www.dropbox.com/scl/fi/x7uvli0uwxm4t61w0twxt/EP-logo.png?rlkey=i55yqimk7dq8dsbv5bcjah8wj&raw=1",
           "https://www.dropbox.com/scl/fi/g2zw8dr43kfn3f8y1vlu5/EP-Instagram.png?rlkey=wx1zn3pz46wvsu0mzb5gw07g0&raw=1",
           "https://www.dropbox.com/scl/fi/ocbck4si7puz32cm84xip/EP-TikTok.png?rlkey=rz9pemq1b9e8g9fejy7cgsasy&raw=1",
