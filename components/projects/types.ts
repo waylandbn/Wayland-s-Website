@@ -8,7 +8,7 @@ export interface Project {
   readonly github?: string;
   readonly live?: string;
   readonly instagram?: string;
-  readonly gallery: readonly string[];
+  readonly gallery: readonly (string | { type: "image" | "video"; url: string })[];
   readonly videos?: readonly string[];
   tech: readonly {
     name: string;
