@@ -9,6 +9,7 @@ export interface Project {
   readonly live?: string;
   readonly instagram?: string;
   readonly gallery: readonly string[];
+  readonly videos?: readonly string[];
   tech: readonly {
     name: string;
     icon: string;
