@@ -180,8 +180,8 @@ export const DATA = {
           "Content creation, SEO, and social media work for the podcast Entrepreneur Perspectives, including editing episodes, designing branded graphics, and publishing to the web.",
         image: "https://www.dropbox.com/scl/fi/x7uvli0uwxm4t61w0twxt/EP-logo.png?rlkey=i55yqimk7dq8dsbv5bcjah8wj&raw=1",
         gallery: [
-          "https://www.dropbox.com/scl/fi/0byndxfu5bu5xxz5cn0aj/EP-views-Wayland-Branson.png?rlkey=w1hxpq4o7map2nftsrlmwnfp8&raw=1"
-          "https://www.dropbox.com/scl/fi/pt8cgwb4mhz7yidwoqbdf/EP-Followers-Wayland-Branson.png?rlkey=q23ecg0cvbr6lv1uxptf09fyx&raw=1"
+          "https://www.dropbox.com/scl/fi/0byndxfu5bu5xxz5cn0aj/EP-views-Wayland-Branson.png?rlkey=w1hxpq4o7map2nftsrlmwnfp8&raw=1",
+          "https://www.dropbox.com/scl/fi/pt8cgwb4mhz7yidwoqbdf/EP-Followers-Wayland-Branson.png?rlkey=q23ecg0cvbr6lv1uxptf09fyx&raw=1",
           { type: "video", url: "https://www.tiktok.com/@entrepreneurperspectives/video/7546739462814829854?is_from_webapp=1&sender_device=pc&web_id=7551471361529660958" },
         ],
         category: "Campaign Management",
