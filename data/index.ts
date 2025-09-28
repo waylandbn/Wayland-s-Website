@@ -177,7 +177,7 @@ export const DATA = {
         id: 1,
         title: "Entrepreneur Perspectives",
         description:
-          "Podcast for entrepreneurs. I run content and distribution across TikTok, YouTube, Instagram, and the site. Biggest win: steady gains on TikTok across views, followers, and likes.",
+          "Entrepreneur Perspectives is a podcast for and about entrepreneurs. I run content and distribution across TikTok, YouTube, Instagram, and the site. I've generated steady gains on TikTok across views, followers, and likes.",
         image: "https://www.dropbox.com/scl/fi/x7uvli0uwxm4t61w0twxt/EP-logo.png?rlkey=i55yqimk7dq8dsbv5bcjah8wj&raw=1",
         gallery: [
           "https://www.dropbox.com/scl/fi/0byndxfu5bu5xxz5cn0aj/EP-views-Wayland-Branson.png?rlkey=w1hxpq4o7map2nftsrlmwnfp8&raw=1",
@@ -186,7 +186,7 @@ export const DATA = {
         ],
         category: "Campaign Management",
         details:
-          "I help manage Entrepreneur Perspectives from production to publishing. I publish episodes, cut short-form clips, write titles and descriptions, design graphics and thumbnails, schedule posts, and maintain the weekly calendar. I tune strategy per platform across TikTok, YouTube Shorts, Instagram, and the website, and I track results to guide what we make next. Biggest win: turning TikTok into a steady driver of views, followers, and likes. All materials shown are the property of QuietLoud Studios and used with permission.",
+          "I help manage Entrepreneur Perspectives from production to publishing. I publish episodes, cut short-form clips, write titles and descriptions, design graphics and thumbnails, schedule posts, and maintain the weekly calendar. I tune strategy per platform across TikTok, YouTube Shorts, Instagram, and the website, and I track results to guide what we make next. My biggest win is turning TikTok into a steady driver of views, followers, and likes. All materials shown are the property of QuietLoud Studios and used with permission.",
         github: "https://kazsource.com",
         live: "https://www.tiktok.com/@entrepreneurperspectives",
         instagram: "https://www.instagram.com/kazsource?utm_source=ig_web_button_share_sheet&igsh=dTl5MjdnYnVzaXU2",
@@ -201,7 +201,7 @@ export const DATA = {
         id: 2,
         title: "SportsE Media",
         description:
-          "Driving SEO, content creation, and social media management for SportsEpreneur, including website updates and branded graphic design.",
+          "sportsE media is a sports news and production brand. I create short videos and graphics, engage the community, and use topical TikToks targeted to specific fan groups that consistently outperform baseline content.",
         image: "https://www.dropbox.com/scl/fi/wpjyx832ktiyywh7lqix9/SE-Logo.png?rlkey=6pd1g73egjoh4nqhh81150pr9&st=r57kvivd&raw=1",
         gallery: [
           "https://www.dropbox.com/scl/fi/glqqo09wliiidlvlpl2fw/SE-Likes-Wayland-Branson.png?rlkey=52aj217o126tke7ni0cwvpqzn&raw=1",
@@ -211,7 +211,7 @@ export const DATA = {
         ],
         category: "Campaign Management",
         details:
-          "Managing content, SEO, and social media for the brand SportsEpreneur, including updating the website, publishing content, designing branded graphics, and managing social media accounts. All materials shown are the property of QuietLoud Studios and used with permission.",
+          "I plan, produce, and publish across TikTok, YouTube, LinkedIn, and web. I edit clips, create graphics and thumbnails, write titles and captions, schedule posts, interact in comments, test topic, hook, and timing, time posts to real-world sports moments, repurpose blog posts for LinkedIn, and keep the site updated with publishing and SEO. The result is steady TikTok growth from topical, targeted posts and rising LinkedIn reach, engagement, and followers. All materials shown are the property of QuietLoud Studios and used with permission.",
         github: "https://sportsepreneur.com",
         live: "https://www.tiktok.com/@sportsemedia?lang=en",
         tech: [
