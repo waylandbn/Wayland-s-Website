@@ -14,6 +14,7 @@ import { Icon } from "@iconify/react";
 
 import ImageGallery from "@/components/image-gallery";
 import { ProjectModalProps } from "@/components/projects/types";
+import VideoEmbed from "@/components/video-embed";
 
 export const ProjectModal = ({
   isOpen,
@@ -39,6 +40,14 @@ export const ProjectModal = ({
           <ModalBody>
             {project.gallery && project.gallery.length > 0 && (
               <ImageGallery images={project.gallery} />
+            )}
+            
+            {project.videos && project.videos.length > 0 && (
+              <div className="mt-6 space-y-6">
+                {project.videos.map((url, i) => (
+                  <VideoEmbed key={i} url={url} />
+                ))}
+              </div>
             )}
 
             <p className="text-sm text-primary-500 mb-3 font-medium uppercase tracking-wide">
