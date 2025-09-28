@@ -177,14 +177,14 @@ export const DATA = {
         id: 1,
         title: "Entrepreneur Perspectives",
         description:
-          "Entrepreneur Perspectives is a podcast for and about entrepreneurs. I run content and distribution across TikTok, YouTube, Instagram, and the site. I've generated steady gains on TikTok across views, followers, and likes.",
+          "Entrepreneur Perspectives is a podcast for and about entrepreneurs. I run content and distribution across TikTok, YouTube, Instagram, and web. I've generated steady gains on TikTok across views, followers, and likes.",
         image: "https://www.dropbox.com/scl/fi/x7uvli0uwxm4t61w0twxt/EP-logo.png?rlkey=i55yqimk7dq8dsbv5bcjah8wj&raw=1",
         gallery: [
           "https://www.dropbox.com/scl/fi/0byndxfu5bu5xxz5cn0aj/EP-views-Wayland-Branson.png?rlkey=w1hxpq4o7map2nftsrlmwnfp8&raw=1",
           "https://www.dropbox.com/scl/fi/pt8cgwb4mhz7yidwoqbdf/EP-Followers-Wayland-Branson.png?rlkey=q23ecg0cvbr6lv1uxptf09fyx&raw=1",
           { type: "video", url: "https://www.tiktok.com/@entrepreneurperspectives/video/7546739462814829854?is_from_webapp=1&sender_device=pc&web_id=7551471361529660958" },
         ],
-        category: "Campaign Management",
+        category: "Campaigns",
         details:
           "I help manage Entrepreneur Perspectives from production to publishing. I publish episodes, cut short-form clips, write titles and descriptions, design graphics and thumbnails, schedule posts, and maintain the weekly calendar. I tune strategy per platform across TikTok, YouTube Shorts, Instagram, and the website, and I track results to guide what we make next. My biggest win is turning TikTok into a steady driver of views, followers, and likes. All materials shown are the property of QuietLoud Studios and used with permission.",
         github: "https://kazsource.com",
@@ -201,7 +201,7 @@ export const DATA = {
         id: 2,
         title: "SportsE Media",
         description:
-          "sportsE media is a sports news and production brand. I create short videos and graphics, engage the community, and use topical TikToks targeted to specific fan groups that consistently outperform baseline content.",
+          "SportsE Media is a sports news and production brand. I create short videos and graphics, engage the community, and use topical TikToks targeted to specific fan groups that consistently outperform baseline content.",
         image: "https://www.dropbox.com/scl/fi/wpjyx832ktiyywh7lqix9/SE-Logo.png?rlkey=6pd1g73egjoh4nqhh81150pr9&st=r57kvivd&raw=1",
         gallery: [
           "https://www.dropbox.com/scl/fi/glqqo09wliiidlvlpl2fw/SE-Likes-Wayland-Branson.png?rlkey=52aj217o126tke7ni0cwvpqzn&raw=1",
@@ -209,7 +209,7 @@ export const DATA = {
           "https://www.dropbox.com/scl/fi/a9r87srhq3ufxs35gptq3/SE-LinkedIn-Wayland-Branson.png?rlkey=wjpv7naolq44nzlkjcj3aeh82&raw=1",
           { type: "video", url: "https://www.tiktok.com/@sportsemedia/video/7547790995916623134" },
         ],
-        category: "Campaign Management",
+        category: "Campaigns",
         details:
           "I plan, produce, and publish across TikTok, YouTube, LinkedIn, and web. I edit clips, create graphics and thumbnails, write titles and captions, schedule posts, interact in comments, test topic, hook, and timing, time posts to real-world sports moments, repurpose blog posts for LinkedIn, and keep the site updated with publishing and SEO. The result is steady TikTok growth from topical, targeted posts and rising LinkedIn reach, engagement, and followers. All materials shown are the property of QuietLoud Studios and used with permission.",
         github: "https://sportsepreneur.com",
@@ -221,26 +221,8 @@ export const DATA = {
           { name: "Perplexity", icon: "logos:perplexity-icon" },
         ],
       },
-            {
-        id: 3,
-        title: "Marketing Stories",
-        description:
-          "Wrote a blog post for QuietLoud Studios sharing practical lessons from podcast content marketing and how brands can use podcasts to strengthen their voice.",
-        image: "https://quietloudstudios.com/wp-content/uploads/2025/08/What-I-Learned-from-Podcast-Content-Marketing.png",
-        gallery: [
-          "https://www.dropbox.com/scl/fi/tawd4ajmmub7svdbcw3fn/e-1.png?rlkey=ywhq6b3pu1l79exck35dles9y&st=xux24kqp&raw=1",
-        ],
-        category: "Blogs",
-        details:
-          "Authored a blog post for QuietLoud Studios on podcast content marketing, reflecting on the lessons I learned while producing, editing, and promoting podcasts. The article highlights strategies for building a brand voice, repurposing audio into effective content, and creating engagement by focusing on listening first. All materials shown are the property of QuietLoud Studios and used with permission.",
-        github: "https://quietloudstudios.com/podcast-content-marketing-lessons/",
-        tech: [
-          { name: "WordPress", icon: "ic:baseline-wordpress" },
-          { name: "Microsoft Word", icon: "file-icons:microsoft-word" },
-        ],
-      },
       {
-        id: 4,
+        id: 3,
         title: "88.1 KNTU",
         description:
           "Rebranded 88.1 KNTU with a modern visual identity and unified brand voice, updating its presence across social media, website, and on-air promotions.",
@@ -251,7 +233,7 @@ export const DATA = {
           "https://www.dropbox.com/scl/fi/rdanuvkoh28e40l97q28m/3.-kntu.png?rlkey=syh782s5p9kqj8h8x3fn31jd4&st=n3episjy&raw=1",
           "https://www.dropbox.com/scl/fi/z4j42m50wdmuvsdsdrwbh/1-KNTU.png?rlkey=bhvmizywh9bn4bg6mpgjut5k3&st=91gy9r5y&raw=1",
         ],
-        category: "Broadcasting and Radio",
+        category: "Campaigns",
         details:
           "Rebranded 88.1 KNTU to modernize its image and reflect evolving music programming. Delivered a refreshed visual identity, established a consistent brand voice, and expanded the station’s digital presence across social media, website, and on-air promotions, resulting in stronger audience engagement and recognition.",
         github: "https://kntu.com",
@@ -264,29 +246,25 @@ export const DATA = {
         ],
       },
       {
-        id: 5,
-        title: "Altered State of Affairs Series",
+        id: 4,
+        title: "Marketing Stories",
         description:
-          "Marketing campaign management for the Altered State of Affairs series, including social media, podcast promotion, and original graphic and video content.",
-        image: "https://www.dropbox.com/scl/fi/bmw7abovt0wpzbekbgqx0/as2.png?rlkey=bd0385bnlgjctrp31up9a135m&st=2ng5es7u&raw=1",
+          "Wrote a blog post for QuietLoud Studios sharing practical lessons from podcast content marketing and how brands can use podcasts to strengthen their voice.",
+        image: "https://quietloudstudios.com/wp-content/uploads/2025/08/What-I-Learned-from-Podcast-Content-Marketing.png",
         gallery: [
-          "https://www.dropbox.com/scl/fi/u6z9r44rjztdtvph5qh17/as4.png?rlkey=bwsuaq4kz29ym9z88l54hlml0&raw=1",
-          "https://www.dropbox.com/scl/fi/ii0lr8m86ag33cehiah2o/as5.png?rlkey=fhbz3zdlo3mki8kb79zsqbwgy&raw=1",
-          "https://www.dropbox.com/scl/fi/7ktiypcnsnhx4g9pzwdpa/as3.png?rlkey=9bjp8gkxvwxsj2272le3ne5hx&raw=1",
-          "https://www.dropbox.com/scl/fi/ayzpaubconoz66ay5cguh/as1.png?rlkey=q0bltmhjb74f18xe2ykm3mciz&raw=1",
+          "https://www.dropbox.com/scl/fi/tawd4ajmmub7svdbcw3fn/e-1.png?rlkey=ywhq6b3pu1l79exck35dles9y&st=xux24kqp&raw=1",
         ],
-        category: "Campaign Management",
+        category: "Blog",
         details:
-          "Directs digital marketing for Jerald Kasimov’s Altered State of Affairs book series, building a multi-platform campaign to expand readership and brand presence. Creates custom graphics and short-form video content, manages social media accounts, and produces podcast tie-ins to boost visibility. Monitored performance metrics across platforms to refine strategy and drive consistent audience growth. All materials shown are the property of QuietLoud Studios and used with permission.",
-        live: "https://www.tiktok.com/@jeraldkasimov",
+          "Authored a blog post for QuietLoud Studios on podcast content marketing, reflecting on the lessons I learned while producing, editing, and promoting podcasts. The article highlights strategies for building a brand voice, repurposing audio into effective content, and creating engagement by focusing on listening first. All materials shown are the property of QuietLoud Studios and used with permission.",
+        github: "https://quietloudstudios.com/podcast-content-marketing-lessons/",
         tech: [
-          { name: "Photoshop", icon: "devicon:photoshop" },
-          { name: "Adobe Express", icon: "arcticons:adobe-express" },
-          { name: "Perplexity", icon: "logos:perplexity-icon" },
+          { name: "WordPress", icon: "ic:baseline-wordpress" },
+          { name: "Microsoft Word", icon: "file-icons:microsoft-word" },
         ],
       },
       {
-         id: 6,
+         id: 5,
         title: "Portfolio Website",
         description:
           "Designed and developed my personal portfolio website with GitHub and Vercel, showcasing marketing, content, and design work in a clean and responsive format.",
@@ -297,7 +275,7 @@ export const DATA = {
           "https://www.dropbox.com/scl/fi/1r0cwsr84m69jqe0paru0/w3.png?rlkey=zdw91hl779irfg9gzt8zeec4i&st=ynl8ud7j&raw=1",
           "https://www.dropbox.com/scl/fi/a46ha44if6z5rvff3thhp/w4.png?rlkey=rp4ug2zijot7df2qp08zvz0vs&st=qvv7si26&raw=1",
         ],
-        category: "Web Development",
+        category: "Blog",
         details:
           "Built s personal portfolio website from the ground up using a modern React/Next.js template, customized with GitHub and Vercel for seamless deployment. I tailored the design, structure, and iconography to highlight my marketing, content creation, and design projects in a clear, professional format. This project demonstrates not only my ability to create and present digital work but also my adaptability in learning new tools and frameworks to support professional branding.",
         github: "https://www.waylandbranson.com",
