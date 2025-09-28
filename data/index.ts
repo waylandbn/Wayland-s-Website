@@ -180,13 +180,9 @@ export const DATA = {
           "Content creation, SEO, and social media work for the podcast Entrepreneur Perspectives, including editing episodes, designing branded graphics, and publishing to the web.",
         image: "https://www.dropbox.com/scl/fi/x7uvli0uwxm4t61w0twxt/EP-logo.png?rlkey=i55yqimk7dq8dsbv5bcjah8wj&raw=1",
         gallery: [
+          "https://www.dropbox.com/scl/fi/0byndxfu5bu5xxz5cn0aj/EP-views-Wayland-Branson.png?rlkey=w1hxpq4o7map2nftsrlmwnfp8&raw=1"
+          "https://www.dropbox.com/scl/fi/pt8cgwb4mhz7yidwoqbdf/EP-Followers-Wayland-Branson.png?rlkey=q23ecg0cvbr6lv1uxptf09fyx&raw=1"
           { type: "video", url: "https://www.tiktok.com/@entrepreneurperspectives/video/7546739462814829854?is_from_webapp=1&sender_device=pc&web_id=7551471361529660958" },
-          "https://www.dropbox.com/scl/fi/x7uvli0uwxm4t61w0twxt/EP-logo.png?rlkey=i55yqimk7dq8dsbv5bcjah8wj&raw=1",
-          "https://www.dropbox.com/scl/fi/g2zw8dr43kfn3f8y1vlu5/EP-Instagram.png?rlkey=wx1zn3pz46wvsu0mzb5gw07g0&raw=1",
-          "https://www.dropbox.com/scl/fi/ocbck4si7puz32cm84xip/EP-TikTok.png?rlkey=rz9pemq1b9e8g9fejy7cgsasy&raw=1",
-          "https://www.dropbox.com/scl/fi/bu17i47ljqtb7xl9qfm8w/EP-Cover.png?rlkey=poe9n8j7c8er4z63ie8k4tkal&raw=1",
-          "https://www.dropbox.com/scl/fi/9cvmtgascyh95e6gdt6td/ep-stats.png?rlkey=mapc1vj68sh3hahclcdo8tk4v&st=n105yb5l&raw=1",
-          "https://www.dropbox.com/scl/fi/71aec6bq8iuwkvpr29sjk/ep-transistor.png?rlkey=rfnosrrtlqo09iuctibbetmzl&st=pgw4esla&raw=1",
         ],
         category: "Campaign Management",
         details:
