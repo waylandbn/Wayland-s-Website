@@ -177,7 +177,7 @@ export const DATA = {
         id: 1,
         title: "Entrepreneur Perspectives",
         description:
-          "Content creation, SEO, and social media work for the podcast Entrepreneur Perspectives, including editing episodes, designing branded graphics, and publishing to the web.",
+          "Podcast for entrepreneurs. I run content and distribution across TikTok, YouTube, Instagram, and the site. Biggest win: steady gains on TikTok across views, followers, and likes.",
         image: "https://www.dropbox.com/scl/fi/x7uvli0uwxm4t61w0twxt/EP-logo.png?rlkey=i55yqimk7dq8dsbv5bcjah8wj&raw=1",
         gallery: [
           "https://www.dropbox.com/scl/fi/0byndxfu5bu5xxz5cn0aj/EP-views-Wayland-Branson.png?rlkey=w1hxpq4o7map2nftsrlmwnfp8&raw=1",
@@ -186,7 +186,7 @@ export const DATA = {
         ],
         category: "Campaign Management",
         details:
-          "Managing content, SEO, and social media for the podcast Entrepreneur Perspectives, including editing episodes, designing branded graphics, and publishing to the web. All materials shown are the property of QuietLoud Studios and used with permission.",
+          "I help manage Entrepreneur Perspectives from production to publishing. I publish episodes, cut short-form clips, write titles and descriptions, design graphics and thumbnails, schedule posts, and maintain the weekly calendar. I tune strategy per platform across TikTok, YouTube Shorts, Instagram, and the website, and I track results to guide what we make next. Biggest win: turning TikTok into a steady driver of views, followers, and likes. All materials shown are the property of QuietLoud Studios and used with permission.",
         github: "https://kazsource.com",
         live: "https://www.tiktok.com/@entrepreneurperspectives",
         instagram: "https://www.instagram.com/kazsource?utm_source=ig_web_button_share_sheet&igsh=dTl5MjdnYnVzaXU2",
