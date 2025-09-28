@@ -189,7 +189,6 @@ export const DATA = {
           "I help manage Entrepreneur Perspectives from production to publishing. I publish episodes, cut short-form clips, write titles and descriptions, design graphics and thumbnails, schedule posts, and maintain the weekly calendar. I tune strategy per platform across TikTok, YouTube Shorts, Instagram, and the website, and I track results to guide what we make next. My biggest win is turning TikTok into a steady driver of views, followers, and likes. All materials shown are the property of QuietLoud Studios and used with permission.",
         github: "https://kazsource.com",
         live: "https://www.tiktok.com/@entrepreneurperspectives",
-        instagram: "https://www.instagram.com/kazsource?utm_source=ig_web_button_share_sheet&igsh=dTl5MjdnYnVzaXU2",
         tech: [
           { name: "Photoshop", icon: "devicon:photoshop" },
           { name: "WordPress", icon: "skill-icons:wordpress" },
