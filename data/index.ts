@@ -199,6 +199,30 @@ export const DATA = {
       },
       {
         id: 2,
+        title: "SportsE Media",
+        description:
+          "Driving SEO, content creation, and social media management for SportsEpreneur, including website updates and branded graphic design.",
+        image: "https://www.dropbox.com/scl/fi/wpjyx832ktiyywh7lqix9/SE-Logo.png?rlkey=6pd1g73egjoh4nqhh81150pr9&st=r57kvivd&raw=1",
+        gallery: [
+          "https://www.dropbox.com/scl/fi/glqqo09wliiidlvlpl2fw/SE-Likes-Wayland-Branson.png?rlkey=52aj217o126tke7ni0cwvpqzn&raw=1",
+          "https://www.dropbox.com/scl/fi/12uqxgzw9lkb147xk7iit/SE-Views-Wayland-Branson.png?rlkey=xuht7el4g29r8r4ozfridee76&raw=1",
+          "https://www.dropbox.com/scl/fi/a9r87srhq3ufxs35gptq3/SE-LinkedIn-Wayland-Branson.png?rlkey=wjpv7naolq44nzlkjcj3aeh82&raw=1",
+          { type: "video", url: "https://www.tiktok.com/@sportsemedia/video/7547790995916623134" },
+        ],
+        category: "Campaign Management",
+        details:
+          "Managing content, SEO, and social media for the brand SportsEpreneur, including updating the website, publishing content, designing branded graphics, and managing social media accounts. All materials shown are the property of QuietLoud Studios and used with permission.",
+        github: "https://sportsepreneur.com",
+        live: "https://www.tiktok.com/@sportsemedia?lang=en",
+        tech: [
+          { name: "Photoshop", icon: "devicon:photoshop" },
+          { name: "WordPress", icon: "skill-icons:wordpress" },
+          { name: "Descript", icon: "logos:descript-icon" },
+          { name: "Perplexity", icon: "logos:perplexity-icon" },
+        ],
+      },
+            {
+        id: 3,
         title: "Marketing Stories",
         description:
           "Wrote a blog post for QuietLoud Studios sharing practical lessons from podcast content marketing and how brands can use podcasts to strengthen their voice.",
@@ -213,30 +237,6 @@ export const DATA = {
         tech: [
           { name: "WordPress", icon: "ic:baseline-wordpress" },
           { name: "Microsoft Word", icon: "file-icons:microsoft-word" },
-        ],
-      },
-      {
-        id: 3,
-        title: "SportsEPreneur",
-        description:
-          "Driving SEO, content creation, and social media management for SportsEpreneur, including website updates and branded graphic design.",
-        image: "https://www.dropbox.com/scl/fi/wpjyx832ktiyywh7lqix9/SE-Logo.png?rlkey=6pd1g73egjoh4nqhh81150pr9&st=r57kvivd&raw=1",
-        gallery: [
-          "https://www.dropbox.com/scl/fi/eb8593mx7i2q5ua6bg1sd/SE-1.png?rlkey=wd1u5va1kiykuxwq1nligndvz&st=ut366z96&raw=1",
-          "https://www.dropbox.com/scl/fi/fnfqpnghgfslwo91zjck6/SE2.png?rlkey=stzznu3u4cwnk4ecmzrg6crke&st=f8fprmlg&raw=1",
-          "https://www.dropbox.com/scl/fi/pn5ep793uwwv2xbxqp78p/SE3.png?rlkey=zu45bcy0qqsuwnea27h7nj3z0&st=x7n3wsph&raw=1",
-          "https://www.dropbox.com/scl/fi/jk8kpvbb47y2617fxqccm/SE4.png?rlkey=vcei7s9pgudk03u5jndth1gm3&st=hjiwaao1&raw=1",
-        ],
-        category: "Campaign Management",
-        details:
-          "Managing content, SEO, and social media for the brand SportsEpreneur, including updating the website, publishing content, designing branded graphics, and managing social media accounts. All materials shown are the property of QuietLoud Studios and used with permission.",
-        github: "https://sportsepreneur.com",
-        live: "https://www.tiktok.com/@sportsemedia?lang=en",
-        tech: [
-          { name: "Photoshop", icon: "devicon:photoshop" },
-          { name: "WordPress", icon: "skill-icons:wordpress" },
-          { name: "Descript", icon: "logos:descript-icon" },
-          { name: "Perplexity", icon: "logos:perplexity-icon" },
         ],
       },
       {
