@@ -187,6 +187,9 @@ export const DATA = {
           "https://www.dropbox.com/scl/fi/9cvmtgascyh95e6gdt6td/ep-stats.png?rlkey=mapc1vj68sh3hahclcdo8tk4v&st=n105yb5l&raw=1",
           "https://www.dropbox.com/scl/fi/71aec6bq8iuwkvpr29sjk/ep-transistor.png?rlkey=rfnosrrtlqo09iuctibbetmzl&st=pgw4esla&raw=1",
         ],
+        videos: [
+          "https://www.tiktok.com/@entrepreneurperspectives/video/7546739462814829854?is_from_webapp=1&sender_device=pc&web_id=7551471361529660958"
+        ],
         category: "Campaign Management",
         details:
           "Managing content, SEO, and social media for the podcast Entrepreneur Perspectives, including editing episodes, designing branded graphics, and publishing to the web. All materials shown are the property of QuietLoud Studios and used with permission.",
