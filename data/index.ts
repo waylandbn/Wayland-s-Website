@@ -249,14 +249,14 @@ export const DATA = {
         id: 4,
         title: "Marketing Stories",
         description:
-          "Wrote a blog post for QuietLoud Studios sharing practical lessons from podcast content marketing and how brands can use podcasts to strengthen their voice.",
+          "Blog essay on content marketing lessons from podcast production at QuietLoud Studios and KazSource showing how long form interviews become a supply chain of clips posts and campaigns and how consistency and listening drive results.",
         image: "https://quietloudstudios.com/wp-content/uploads/2025/08/What-I-Learned-from-Podcast-Content-Marketing.png",
         gallery: [
           "https://www.dropbox.com/scl/fi/tawd4ajmmub7svdbcw3fn/e-1.png?rlkey=ywhq6b3pu1l79exck35dles9y&st=xux24kqp&raw=1",
         ],
         category: "Blog",
         details:
-          "Authored a blog post for QuietLoud Studios on podcast content marketing, reflecting on the lessons I learned while producing, editing, and promoting podcasts. The article highlights strategies for building a brand voice, repurposing audio into effective content, and creating engagement by focusing on listening first. All materials shown are the property of QuietLoud Studios and used with permission.",
+          "Blog post covering clip production show notes distribution and multi platform promotion turning one conversation into TikTok YouTube Shorts LinkedIn X and website content learning to read tone and structure to find human moments testing hooks and timing engaging communities and focusing on earning trust before attention with steady craft growth even without a viral hit.",
         github: "https://quietloudstudios.com/podcast-content-marketing-lessons/",
         tech: [
           { name: "WordPress", icon: "ic:baseline-wordpress" },
