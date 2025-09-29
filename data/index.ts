@@ -227,7 +227,7 @@ export const DATA = {
           "Station Programmer at KNTU I organized promotions, led digital strategy, helped build a new website, interviewed artists, programmed the weekly playlist, and grew weekly listeners.",
         image: "https://www.dropbox.com/scl/fi/jcj3kbjetwbc5gz5nb4zo/kntu-4.png?rlkey=6yh6sadptx2br7sxntpp8upog&st=db4uh5ep&raw=1",
         gallery: [
-          "https://www.dropbox.com/scl/fi/ok4a3v3vg4qt95nuva6i1/KNTU-Listners-Wayland-Branson.png?rlkey=s9dqrpnmjd3lbuk3uggwe2zgb&raw=1",
+          "https://www.dropbox.com/scl/fi/rdnj8kn03syb7qs9nygxw/KNTU-Listeners-Wayland-Branson.png?rlkey=r2vt8liz21o9mcvnhivrghrg3&raw=1",
           "https://www.dropbox.com/scl/fi/yckqv9p4gax5u9iuxg0bs/kntu-5.png?rlkey=v1q6l1adb2vk5trwyr6kyiq7e&st=my9u4cji&raw=1",
           "https://www.dropbox.com/scl/fi/rdanuvkoh28e40l97q28m/3.-kntu.png?rlkey=syh782s5p9kqj8h8x3fn31jd4&st=n3episjy&raw=1",
           "https://www.dropbox.com/scl/fi/z4j42m50wdmuvsdsdrwbh/1-KNTU.png?rlkey=bhvmizywh9bn4bg6mpgjut5k3&st=91gy9r5y&raw=1",
