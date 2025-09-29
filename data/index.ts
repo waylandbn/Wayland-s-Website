@@ -234,7 +234,7 @@ export const DATA = {
         ],
         category: "Campaigns",
         details:
-          "This project documents my role at 88.1 KNTU planning and running promotions, managing digital strategy, programming the weekly playlist, coordinating with underwriting, record labels, artists, and promoters, and helping design the new website. The chart reflects weekly listeners since that is the industry standard. Tt models a 4.7 percent lift across 2023 ending at 270,700 consistent with the figure reported by 88.1 KNTU",
+          "This project documents my role at 88.1 KNTU planning and running promotions, managing digital strategy, programming the weekly playlist, coordinating with underwriting, record labels, artists, and promoters, and helping design the new website. The chart reflects weekly listeners since that is the industry standard. It models a 4.7 percent lift across 2023 ending at 270,700 consistent with the figure reported by 88.1 KNTU",
         github: "https://kntu.com",
         tech: [
           { name: "Adobe Photoshop", icon: "devicon:photoshop" },
