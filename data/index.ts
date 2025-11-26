@@ -306,9 +306,9 @@ export const DATA = {
     name: "Wayland Branson",
     description: "Always interested in new projects and collaborations.",
     contact: {
-      email: "wayland@waylandbranson.com",
+      email: "morrisbranson@gmail.com",
       phone: "+1 (469) 408-7059",
-      location: "Dallas / Austin, TX",
+      location: "Dallas, TX",
     },
     socialLinks: [
       {
