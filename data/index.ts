@@ -82,9 +82,16 @@ export const DATA = {
       },
     ],
     experience: [
-      {
+       {
         title: "Marketing Intern",
         date: "2025 - Present",
+        icon: "mdi:briefcase",
+        description:
+          "At Strategic Partnerships, Inc., LLC, I manage and grow multiple LinkedIn campaigns by repurposing content, targeting specific audience segments, and fostering strategic connections. I design graphics and campaign assets, support SEO and brand visibility, and build outreach systems that secure external publication of SPI content. My work focuses on expanding reach, improving engagement, and positioning SPI as a leader in the public-sector space.",
+      },
+      {
+        title: "Marketing Intern",
+        date: "2025 - 2025",
         icon: "mdi:briefcase",
         description:
           "At KazSource and Quiet Loud Studios, Wayland supports podcast production, digital marketing, and outreach strategy across multiple in-house and client-facing brands. His role blends creative execution with research and analytics to help grow visibility, streamline workflows, and improve content performance.",
