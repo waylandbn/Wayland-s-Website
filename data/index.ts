@@ -12,7 +12,7 @@ export const DATA = {
         " Working across content, audio, search, and web tools to support clients and marketing teams.",
       overview: [
         {
-          name: "Content Strategy",
+          name: "Content Distribution",
           level: 85,
           icon: "lucide:layout-dashboard",
           color: "primary",
@@ -84,10 +84,10 @@ export const DATA = {
     experience: [
        {
         title: "Marketing Intern",
-        date: "2025 - Present",
+        date: "2025 - 2026",
         icon: "mdi:briefcase",
         description:
-          "At Strategic Partnerships, Inc., LLC, I manage and grow multiple LinkedIn campaigns by repurposing content, targeting specific audience segments, and fostering strategic connections. I design graphics and campaign assets, support SEO and brand visibility, and build outreach systems that secure external publication of SPI content. My work focuses on expanding reach, improving engagement, and positioning SPI as a leader in the public-sector space.",
+          "At Strategic Partnerships, Inc., Wayland built a distribution engine for executive thought leadership, turning long-form insights into coordinated multi-channel campaigns designed to be tracked, tested, and improved over time.",
       },
       {
         title: "Marketing Intern",
