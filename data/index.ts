@@ -2,9 +2,9 @@ export const DATA = {
   home: {
     hero: {
       name: "Wayland Branson",
-      title: "Digital Marketer",
+      title: "Wayland Branson",
       subtitle:
-        "Stacking skills, building momentum, and staying dangerous.",
+        "Marketing Specialist",
     },
     skills: {
       sectionTitle: "Skills",
