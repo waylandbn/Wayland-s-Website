@@ -65,7 +65,7 @@ export const DATA = {
       name: "Wayland Branson",
       title: "Digital Marketer",
       image:
-        "https://media.licdn.com/dms/image/v2/D5603AQG9GWw-Pr-3Ww/profile-displayphoto-crop_800_800/B56Z4oWEnOJcAI-/0/1778793335998?e=1781740800&v=beta&t=BtfnE3q3QLbvK_G9TlaSh97KxdpqFTQrgVAiglDAkNU",
+        "https://www.linkedin.com/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bu51mvoOLTT6OY9p%2B16Aa%2Bg%3D%3D",
       description: [
         "Marketing is a continuously evolving artform. It shifts with platforms, trends, and attention spans. I stay curious, keep learning, and adapt fast so I can create work that grabs attention.",
         "My work covers content strategy, SEO, writing, audio & visual production, and platform management. I’ve contributed to blogs, social content, web develpoment, and campaign launches.",
