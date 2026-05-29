@@ -236,7 +236,7 @@ export const DATA = {
         id: 2,
         title: "88.1 KNTU Rebrand",
         description:
-          "This project showcases my leadership role in rebranding 88.1 KNTU and modernizing how the station connected with its audience. As Content Director and Station Programmer, I led efforts across digital strategy, promotions, website redevelopment, artist relations, and audience engagement to create a stronger and more cohesive brand identity. My responsibilities included programming the station's weekly playlist, coordinating with record labels, promoters, underwriters, and artists, conducting interviews, and helping oversee the development of a new website. The listener chart featured here reflects the impact of these initiatives, documenting a 4.7% increase in weekly listeners during my tenure and demonstrating how strategic brand development can translate into measurable audience growth.",
+          "Led a rebranding initiative for 88.1 KNTU that modernized the station's digital presence, strengthened audience engagement, and contributed to a 4.7% increase in weekly listeners.",
         image: "https://www.dropbox.com/scl/fi/jcj3kbjetwbc5gz5nb4zo/kntu-4.png?rlkey=6yh6sadptx2br7sxntpp8upog&st=db4uh5ep&raw=1",
         gallery: [
           "https://www.dropbox.com/scl/fi/worha2mbc3ybyc5h5vnar/KNTU-Listeners-Wayland-Branson-1.png?rlkey=rnmypsz05zi4twqsryytsbdy5&raw=1",
@@ -246,7 +246,7 @@ export const DATA = {
         ],
         category: "Campaigns",
         details:
-          "This project documents my role at 88.1 KNTU planning and running promotions, managing digital strategy, programming the weekly playlist, coordinating with underwriting, record labels, artists, and promoters, and helping design the new website. The chart reflects weekly listeners since that is the industry standard. It models a 4.7 percent lift across 2023 ending at 270,700 consistent with the figure reported by 88.1 KNTU",
+          "This project showcases my leadership role in rebranding 88.1 KNTU and modernizing how the station connected with its audience. As Content Director and Station Programmer, I led efforts across digital strategy, promotions, website redevelopment, artist relations, and audience engagement to create a stronger and more cohesive brand identity. My responsibilities included programming the station's weekly playlist, coordinating with record labels, promoters, underwriters, and artists, conducting interviews, and helping oversee the development of a new website. The listener chart featured here reflects the impact of these initiatives, documenting a 4.7% increase in weekly listeners during my tenure and demonstrating how strategic brand development can translate into measurable audience growth.",
         github: "https://kntu.com",
         tech: [
           { name: "Adobe Photoshop", icon: "devicon:photoshop" },
