@@ -19,7 +19,7 @@ export const useTestimonials = (items: readonly Testimonial[]) => {
   const resetAutoPlay = () => {
     setIsAutoPlaying(true);
     if (intervalRef.current) clearInterval(intervalRef.current);
-    intervalRef.current = setInterval(() => nextTestimonial(), 5000);
+    intervalRef.current = setInterval(() => nextTestimonial(), 8000);
   };
 
   const nextTestimonial = () => {
@@ -39,7 +39,7 @@ export const useTestimonials = (items: readonly Testimonial[]) => {
 
   useEffect(() => {
     if (isAutoPlaying) {
-      intervalRef.current = setInterval(() => nextTestimonial(), 5000);
+      intervalRef.current = setInterval(() => nextTestimonial(), 8000);
     }
 
     return () => {
