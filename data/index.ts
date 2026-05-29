@@ -72,7 +72,7 @@ export const DATA = {
   about: {
     profile: {
       name: "Wayland Branson",
-      title: "Digital Marketer",
+      title: "Marketing Specialist",
       image:
         "https://www.dropbox.com/scl/fi/j9xs6ysw86fpxvehre6xb/wayland-branson-marketing-specialist-headshot.png?rlkey=ewo3kxk90mgv70bx5dykfh0fd&st=d6a2vi6p&raw=1",
       description: [
