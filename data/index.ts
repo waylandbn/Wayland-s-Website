@@ -13,19 +13,19 @@ export const DATA = {
         " Working across content, audio, search, and web tools to support clients and marketing teams.",
       overview: [
         {
-          name: "Content Distribution",
+          name: "Brand Management",
           level: 85,
           icon: "lucide:layout-dashboard",
           color: "primary",
         },
         {
-          name: "SEO & Metadata Optimization",
+          name: "Content Distribution",
           level: 90,
           icon: "lucide:code",
           color: "secondary",
         },
         {
-          name: "Audio & Video Production",
+          name: "Media Production",
           level: 90,
           icon: "lucide:video",
           color: "success",
@@ -40,7 +40,7 @@ export const DATA = {
     },
     testimonials: {
       sectionTitle: "Testimonials",
-      sectionDescription: "What employers and coworkers say about working together",
+      sectionDescription: "What employers and peers say about working together",
       items: [
         {
           id: 1,
@@ -56,7 +56,15 @@ export const DATA = {
           role: "Sports Director at North Texas Streaming Network",
           content:
             "Wayland is a professional in every sense of the word. His commitment to his craft, work ethic, and ability to collaborate with others make him a valuable asset in whatever project or profession he’s a part of.",
-          avatar: "https://zacbabb.com/wp-content/uploads/2025/03/IMG_0074-1024x978.jpeg",
+          avatar: "https://www.dropbox.com/scl/fi/d0aptux12q1atfi4zql0s/yKrKFws4_400x400.jpg?rlkey=mjxp539667u7eimc5bsm1nx4g&st=rl1sst9g&raw=1",
+        },
+        {
+          id: 3,
+          name: "Brady Pieper",
+          role: "Managing Editor, Digital Content",
+          content:
+            "At Strategic Partnerships, Inc. (SPI), Wayland successfully managed marketing campaigns, social media initiatives, content strategy, and promotion for major company events, including the 2026 SPI Special Bond Election Symposium. He excelled in a fast-paced environment, demonstrating creativity, initiative, and strong collaboration while gaining experience in B2B and B2G marketing. Wayland consistently exceeded expectations, operated independently when needed, and proved himself to be a valuable contributor with exceptional potential for future leadership.",
+          avatar: "https://www.dropbox.com/scl/fi/x8ccb5jgp8cgd935yaj08/1568668401473.jpeg?rlkey=6s9j2a0xt49wlremoqrjx97u5&st=p5pdajj4&raw=1",
         },
       ],
     },
