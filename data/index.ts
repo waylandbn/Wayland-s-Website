@@ -1,9 +1,10 @@
 export const DATA = {
   home: {
     hero: {
-      name: "Wayland Branson",
-      title: "Marketing Specialist",
-      
+      name: "You made it!",
+      title: "Wayland Branson",
+      subtitle:
+        "Marketing Specialist",
 
     },
     skills: {
