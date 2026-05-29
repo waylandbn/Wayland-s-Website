@@ -83,39 +83,60 @@ export const DATA = {
     ],
     experience: [
        {
-        title: "Marketing Intern",
+        title: "Development Events & Annual Giving Assistant",
+        date: "Seasonal, 2026",
+        icon: "mdi:briefcase",
+        description:
+          "At Aspen Music Festival and School, Wayland supports the donor relations and fundraising efforts that help sustain one of the world's premier classical music institutions. Working directly with patrons, development staff, and event operations has provided firsthand experience in the relationship-building and revenue generation that fuel nonprofit organizations.",
+      },
+      {
+        title: "Marketing Specialist",
         date: "2025 - 2026",
         icon: "mdi:briefcase",
         description:
-          "At Strategic Partnerships, Inc., Wayland built a distribution engine for executive thought leadership, turning long-form insights into coordinated multi-channel campaigns designed to be tracked, tested, and improved over time.",
+          "At Strategic Partnerships, Inc., a national leader in government contracting intelligence, Wayland developed and executed an earned media strategy that secured more than 30 external media placements. Working under President and CEO Mary Scott Nabers, one of the most recognized voices in public-sector infrastructure and procurement, he gained experience in executive thought leadership, brand positioning, and large-scale content distribution.",
       },
       {
         title: "Marketing Intern",
         date: "2025 - 2025",
         icon: "mdi:briefcase",
         description:
-          "At KazSource and Quiet Loud Studios, Wayland supports podcast production, digital marketing, and outreach strategy across multiple in-house and client-facing brands. His role blends creative execution with research and analytics to help grow visibility, streamline workflows, and improve content performance.",
+          "At KazSource and Quiet Loud Studios, Wayland worked across podcasting, digital media, and client marketing campaigns, gaining experience in how modern content ecosystems are built. The role strengthened his abilities in SEO, content repurposing, audience growth, and multi-platform distribution while supporting brands across several industries.",
       },
       {
         title: "Administrative Assitant",
         date: "2024 - 2025",
         icon: "mdi:monitor-dashboard",
         description:
-          "At The Reecer Law Firm, Wayland supported legal operations and administrative workflow in a fast-paced estate planning and probate environment. His attention to detail and organizational skills helped maintain compliance and improve overall efficiency.",
+          "At The Reecer Law Firm, Wayland supported attorneys and clients in the estate planning and probate process. The experience developed his attention to detail, professionalism, and understanding of how trust, organization, and client service contribute to a successful professional practice.",
+      },
+      {
+        title: "Marketing Intern",
+        date: "2024",
+        icon: "mdi:code-tags",
+        description:
+          "At Atrium Music, Wayland supported music licensing efforts for film, television, and digital media, curating more than 100 playlists for music supervisors and organizing metadata for over 500 tracks. He also contributed to artist outreach initiatives and helped secure a placement for one of the company's catalog artists on the hit television series Love Island, gaining firsthand experience in the business and marketing of creative content.",
       },
       {
         title: "Station Programmer & Director",
         date: "2023 - 2024",
         icon: "mdi:code-tags",
         description:
-          "At 88.1 KNTU, Wayland led content programming, event planning, and digital strategy for one of North Texas’s most active college radio stations. His work combined audience analysis, creative production, and operations management to grow engagement and streamline internal systems.",
+          "At 88.1 KNTU, Wayland oversaw programming, promotions, and audience engagement for one of North Texas's most active college radio stations. The role provided hands-on experience in media management, event promotion, content strategy, and understanding how audiences discover and engage with entertainment brands.",
       },
       {
         title: "Business Development Specialist",
         date: "2022 - 2023",
         icon: "mdi:code-tags",
         description:
-          "At Ruffalo Noel Levitz, Wayland was responsible for fundraising through direct outreach to alumni, parents, and university supporters. His communication skills and strategic approach helped drive measurable support for university initiatives.",
+          "At Ruffalo Noel Levitz, Wayland raised funds on behalf of higher education institutions through direct outreach to alumni and supporters. The position sharpened his communication skills and provided early exposure to relationship-driven sales, persuasion, and donor engagement.",
+      },
+       {
+        title: "Data Input Clerk",
+        date: "2021 - 2022",
+        icon: "mdi:code-tags",
+        description:
+          "At Hometown Threads, Wayland entered and organized data for more than 2,000 clients, tracked over 500 customer orders, and developed systems that improved operational efficiency. Beyond administrative responsibilities, he created promotional content for email and social media campaigns, gaining early experience in both marketing and the day-to-day realities of running a growing small business.",
       },
     ],
     technologies: {
