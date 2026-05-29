@@ -67,9 +67,9 @@ export const DATA = {
       image:
         "https://www.dropbox.com/scl/fi/j9xs6ysw86fpxvehre6xb/wayland-branson-marketing-specialist-headshot.png?rlkey=ewo3kxk90mgv70bx5dykfh0fd&st=d6a2vi6p&raw=1",
       description: [
-        "Marketing is a continuously evolving artform. It shifts with platforms, trends, and attention spans. I stay curious, keep learning, and adapt fast so I can create work that grabs attention.",
-        "My work covers content strategy, SEO, writing, audio & visual production, and platform management. I’ve contributed to blogs, social content, web develpoment, and campaign launches.",
-        "Right now, I’m focused on learning by doing, staying consistent, and building work I’m not embarrassed to show. That’s the bar.",
+        "I help organizations earn attention, build credibility, and connect with the people who matter most. My experience spans government contracting, arts administration, music promotion, legal services, and media production, giving me a broad perspective on how different industries grow.",
+        "From securing earned media placements and managing newsletter strategy to producing content, improving SEO, and supporting brand development, I focus on creating marketing systems that drive visibility and deliver measurable results.",
+        "I believe good marketing starts with understanding people and ends with execution. Whether I'm developing strategy, creating content, managing campaigns, or analyzing performance, my goal is simple: help brands stand out for the right reasons.",
       ],
     },
     education: [
