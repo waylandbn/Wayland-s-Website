@@ -2,7 +2,7 @@ export const DATA = {
   home: {
     hero: {
       name: "Wayland Branson",
-      title: "Wayland Branson",
+
       subtitle:
         "Marketing Specialist",
     },
