@@ -75,10 +75,10 @@ export const DATA = {
     education: [
       {
         title: "The University of North Texas",
-        date: "",
+        date: "Bachelor of Business Administration, Marketing",
         icon: "mdi:palette",
         description:
-          "Studied Marketing with minors in Music and Entrepreneurship, and a concentration in classical guitar. This mix gave me a grounded understanding of how creative thinking and business strategy support each other. Through music I discovered my interest in promotion and audience connection, which now shapes the way I approach marketing as both an art and a discipline.",
+          "I earned my degree in Marketing from the University of North Texas while also pursuing minors in Music and Entrepreneurship and a concentration in classical guitar. My time at UNT challenged me to think creatively, communicate effectively, and approach problems from multiple perspectives, skills that continue to shape my work as a marketer.",
       },
     ],
     experience: [
