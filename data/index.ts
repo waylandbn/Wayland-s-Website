@@ -234,6 +234,30 @@ export const DATA = {
       },
       {
         id: 2,
+        title: "88.1 KNTU Rebrand",
+        description:
+          "As Station Programmer at KNTU I organized promotions, led digital strategy, helped build a new website, interviewed artists, programmed the weekly playlist, and helped grow weekly listeners by nearly 5% by the end of my tenure.",
+        image: "https://www.dropbox.com/scl/fi/jcj3kbjetwbc5gz5nb4zo/kntu-4.png?rlkey=6yh6sadptx2br7sxntpp8upog&st=db4uh5ep&raw=1",
+        gallery: [
+          "https://www.dropbox.com/scl/fi/worha2mbc3ybyc5h5vnar/KNTU-Listeners-Wayland-Branson-1.png?rlkey=rnmypsz05zi4twqsryytsbdy5&raw=1",
+          "https://www.dropbox.com/scl/fi/yckqv9p4gax5u9iuxg0bs/kntu-5.png?rlkey=v1q6l1adb2vk5trwyr6kyiq7e&st=my9u4cji&raw=1",
+          "https://www.dropbox.com/scl/fi/rdanuvkoh28e40l97q28m/3.-kntu.png?rlkey=syh782s5p9kqj8h8x3fn31jd4&st=n3episjy&raw=1",
+          "https://www.dropbox.com/scl/fi/z4j42m50wdmuvsdsdrwbh/1-KNTU.png?rlkey=bhvmizywh9bn4bg6mpgjut5k3&st=91gy9r5y&raw=1",
+        ],
+        category: "Campaigns",
+        details:
+          "This project documents my role at 88.1 KNTU planning and running promotions, managing digital strategy, programming the weekly playlist, coordinating with underwriting, record labels, artists, and promoters, and helping design the new website. The chart reflects weekly listeners since that is the industry standard. It models a 4.7 percent lift across 2023 ending at 270,700 consistent with the figure reported by 88.1 KNTU",
+        github: "https://kntu.com",
+        tech: [
+          { name: "Adobe Photoshop", icon: "devicon:photoshop" },
+          { name: "Adobe Premier", icon: "skill-icons:premiere" },
+          { name: "HubSpot", icon: "simple-icons:hubspot" },
+          { name: "Microsoft Excel", icon: "vscode-icons:file-type-excel" }, 
+          { name: "ProTools", icon: "simple-icons:protools" },
+        ],
+      },
+      {
+        id: 3,
         title: "Entrepreneur Perspectives",
         description:
           "Entrepreneur Perspectives is a podcast for and about entrepreneurs. I ran content and distribution across TikTok, YouTube, Instagram, and web. I've generated steady gains on TikTok across views, followers, and likes.",
@@ -253,10 +277,10 @@ export const DATA = {
           { name: "WordPress", icon: "skill-icons:wordpress" },
           { name: "Descript", icon: "logos:descript-icon" },
           { name: "Perplexity", icon: "logos:perplexity-icon" },
-        ],
+          ],
       },
       {
-        id: 3,
+        id: 4,
         title: "SportsE Media",
         description:
           "SportsE Media is a sports news and production brand. I created short videos and graphics, engaged the community, and used topical TikToks targeted to specific fan groups that consistently outperform baseline content.",
@@ -277,30 +301,6 @@ export const DATA = {
           { name: "WordPress", icon: "skill-icons:wordpress" },
           { name: "Descript", icon: "logos:descript-icon" },
           { name: "Perplexity", icon: "logos:perplexity-icon" },
-        ],
-      },
-      {
-        id: 4,
-        title: "88.1 KNTU Rebrand",
-        description:
-          "As Station Programmer at KNTU I organized promotions, led digital strategy, helped build a new website, interviewed artists, programmed the weekly playlist, and helped grow weekly listeners by nearly 5% by the end of my tenure.",
-        image: "https://www.dropbox.com/scl/fi/jcj3kbjetwbc5gz5nb4zo/kntu-4.png?rlkey=6yh6sadptx2br7sxntpp8upog&st=db4uh5ep&raw=1",
-        gallery: [
-          "https://www.dropbox.com/scl/fi/worha2mbc3ybyc5h5vnar/KNTU-Listeners-Wayland-Branson-1.png?rlkey=rnmypsz05zi4twqsryytsbdy5&raw=1",
-          "https://www.dropbox.com/scl/fi/yckqv9p4gax5u9iuxg0bs/kntu-5.png?rlkey=v1q6l1adb2vk5trwyr6kyiq7e&st=my9u4cji&raw=1",
-          "https://www.dropbox.com/scl/fi/rdanuvkoh28e40l97q28m/3.-kntu.png?rlkey=syh782s5p9kqj8h8x3fn31jd4&st=n3episjy&raw=1",
-          "https://www.dropbox.com/scl/fi/z4j42m50wdmuvsdsdrwbh/1-KNTU.png?rlkey=bhvmizywh9bn4bg6mpgjut5k3&st=91gy9r5y&raw=1",
-        ],
-        category: "Campaigns",
-        details:
-          "This project documents my role at 88.1 KNTU planning and running promotions, managing digital strategy, programming the weekly playlist, coordinating with underwriting, record labels, artists, and promoters, and helping design the new website. The chart reflects weekly listeners since that is the industry standard. It models a 4.7 percent lift across 2023 ending at 270,700 consistent with the figure reported by 88.1 KNTU",
-        github: "https://kntu.com",
-        tech: [
-          { name: "Adobe Photoshop", icon: "devicon:photoshop" },
-          { name: "Adobe Premier", icon: "skill-icons:premiere" },
-          { name: "HubSpot", icon: "simple-icons:hubspot" },
-          { name: "Microsoft Excel", icon: "vscode-icons:file-type-excel" }, 
-          { name: "ProTools", icon: "simple-icons:protools" },          
         ],
       },
       {
