@@ -1,10 +1,10 @@
 export const DATA = {
   home: {
     hero: {
-      name: "Are You Ready?",
-      title: "Wayland Branson",
+      name: "Wayland Branson",
+      title: "Let's Build Something Loud",
       subtitle:
-        "Let's Build Something Loud",
+        "Are You Ready?",
 
     },
     skills: {
