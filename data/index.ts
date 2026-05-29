@@ -210,11 +210,33 @@ export const DATA = {
     sectionDescription:
       "Descriptions of Some of my Recent Projects",
     work: [
-      {
+       {
         id: 1,
+        title: "SPI Earned Media Strategy",
+        description:
+          "At Strategic Partnerships, Inc., I developed and executed an earned media strategy that secured more than 30 external publication placements for executive thought leadership, expanding brand visibility without paid advertising.",
+        image: "https://www.dropbox.com/scl/fi/h1499b3cgc31ej3s1q3td/SPI_Logo_rgb.png?rlkey=gjxx9q0hg9hqjmn2b0viqvrnl&st=ck234eev&raw=1",
+        gallery: [
+          "https://www.dropbox.com/scl/fi/wrr9cc5pjvpd0kbzysmdq/CDS1.png?rlkey=5hygeycrv1083fcw6x035v6al&st=p1ety5t2&raw=1",
+          "https://www.dropbox.com/scl/fi/0lhsw6ly0715idbis0umj/CDS2.png?rlkey=y5h1zhvwmf4h6jvsge4gh3z8k&st=o7nv9mae&raw=1",
+          "https://www.dropbox.com/scl/fi/uiezqq3y2fa3mhburr7wx/CDS3.png?rlkey=41cxntoamuhntg8tnc9edhi1a&st=kvj1srhy&raw=1",
+          "https://www.dropbox.com/scl/fi/798tmdrn8f35lilwtdlc5/CDS4.png?rlkey=1xxkt89mahy0dhefx7s4huu1e&st=1gjn2kgq&raw=1",
+          "https://www.dropbox.com/scl/fi/erdhhc0tyel1skkrohpu1/CDS5.png?rlkey=b0vnshek7lyypmin8w0f54h6a&st=troiv5ls&raw=1",
+          "https://www.dropbox.com/scl/fi/rgxorfyfoe7ctjiccpgmy/CDS6.png?rlkey=e27eco2at46hg6cn7qvchv0ue&st=o5q90dv6&raw=1",
+        ],
+        category: "Campaigns",
+        details:
+          "This project documents my earned media work at Strategic Partnerships, Inc., a national leader in government contracting intelligence. Working under President and CEO Mary Scott Nabers, former Texas Railroad Commissioner and one of the most recognized voices in public-sector infrastructure and procurement, I built targeted publisher lists, developed outreach strategies, wrote tailored pitches, embedded UTM tracking links, and secured more than 30 external media placements. The slides featured in this project showcase my original proposal for the earned media initiative, outlining the strategy, rationale, and implementation plan that ultimately helped expand SPI's reach beyond owned channels and strengthen the company's thought leadership presence without relying on paid advertising.",
+        github: "https://www.spartnerships.com/about-spi/news-press/",
+        tech: [
+          { name: "MondayCRM", icon: "logos:monday-icon" },          
+        ],
+      },
+      {
+        id: 2,
         title: "Entrepreneur Perspectives",
         description:
-          "Entrepreneur Perspectives is a podcast for and about entrepreneurs. I run content and distribution across TikTok, YouTube, Instagram, and web. I've generated steady gains on TikTok across views, followers, and likes.",
+          "Entrepreneur Perspectives is a podcast for and about entrepreneurs. I ran content and distribution across TikTok, YouTube, Instagram, and web. I've generated steady gains on TikTok across views, followers, and likes.",
         image: "https://www.dropbox.com/scl/fi/x7uvli0uwxm4t61w0twxt/EP-logo.png?rlkey=i55yqimk7dq8dsbv5bcjah8wj&raw=1",
         gallery: [
           "https://www.dropbox.com/scl/fi/0byndxfu5bu5xxz5cn0aj/EP-views-Wayland-Branson.png?rlkey=w1hxpq4o7map2nftsrlmwnfp8&raw=1",
@@ -223,7 +245,7 @@ export const DATA = {
         ],
         category: "Campaigns",
         details:
-          "I help manage Entrepreneur Perspectives from production to publishing. I publish episodes, cut short-form clips, write titles and descriptions, design graphics and thumbnails, schedule posts, and maintain the weekly calendar. I tune strategy per platform across TikTok, YouTube Shorts, Instagram, and the website, and I track results to guide what we make next. My biggest win is turning TikTok into a steady driver of views, followers, and likes. All materials shown are the property of QuietLoud Studios and used with permission.",
+          "I assisted in managing Entrepreneur Perspectives from production to publishing. I published episodes, cut short-form clips, wrote titles and descriptions, designed graphics and thumbnails, scheduled posts, and maintained the weekly calendar. I tuned strategy per platform across TikTok, YouTube Shorts, Instagram, and the website, and I tracked results to guide what we make next. My biggest win was turning TikTok into a steady driver of views, followers, and likes. All materials shown are the property of QuietLoud Studios and used with permission.",
         github: "https://kazsource.com",
         live: "https://www.tiktok.com/@entrepreneurperspectives",
         tech: [
@@ -234,10 +256,10 @@ export const DATA = {
         ],
       },
       {
-        id: 2,
+        id: 3,
         title: "SportsE Media",
         description:
-          "SportsE Media is a sports news and production brand. I create short videos and graphics, engage the community, and use topical TikToks targeted to specific fan groups that consistently outperform baseline content.",
+          "SportsE Media is a sports news and production brand. I created short videos and graphics, engaged the community, and used topical TikToks targeted to specific fan groups that consistently outperform baseline content.",
         image: "https://www.dropbox.com/scl/fi/wpjyx832ktiyywh7lqix9/SE-Logo.png?rlkey=6pd1g73egjoh4nqhh81150pr9&st=r57kvivd&raw=1",
         gallery: [
           "https://www.dropbox.com/scl/fi/glqqo09wliiidlvlpl2fw/SE-Likes-Wayland-Branson.png?rlkey=52aj217o126tke7ni0cwvpqzn&raw=1",
@@ -247,7 +269,7 @@ export const DATA = {
         ],
         category: "Campaigns",
         details:
-          "I plan, produce, and publish across TikTok, YouTube, LinkedIn, and web. I edit clips, create graphics and thumbnails, write titles and captions, schedule posts, interact in comments, test topic, hook, and timing, time posts to real-world sports moments, repurpose blog posts for LinkedIn, and keep the site updated with publishing and SEO. The result is steady TikTok growth from topical, targeted posts and rising LinkedIn reach, engagement, and followers. All materials shown are the property of QuietLoud Studios and used with permission.",
+          "I planed, produced, and published content across TikTok, YouTube, LinkedIn, and web. I edited clips, created graphics and thumbnails, wrote titles and captions, scheduled posts, interacted in comments, tested topics, hooks, and timing, timeed posts to real-world sports moments, repurposed blog posts for LinkedIn, and kept the site updated with publishing and SEO. The results were steady TikTok growth from topical, targeted posts and rising LinkedIn reach, engagement, and followers. All materials shown are the property of QuietLoud Studios and used with permission.",
         github: "https://sportsepreneur.com",
         live: "https://www.tiktok.com/@sportsemedia?lang=en",
         tech: [
@@ -258,10 +280,10 @@ export const DATA = {
         ],
       },
       {
-        id: 3,
-        title: "88.1 KNTU",
+        id: 4,
+        title: "88.1 KNTU Rebrand",
         description:
-          "Station Programmer at KNTU I organized promotions, led digital strategy, helped build a new website, interviewed artists, programmed the weekly playlist, and helped grow weekly listeners by nearly 5% by the end of my tenure.",
+          "As Station Programmer at KNTU I organized promotions, led digital strategy, helped build a new website, interviewed artists, programmed the weekly playlist, and helped grow weekly listeners by nearly 5% by the end of my tenure.",
         image: "https://www.dropbox.com/scl/fi/jcj3kbjetwbc5gz5nb4zo/kntu-4.png?rlkey=6yh6sadptx2br7sxntpp8upog&st=db4uh5ep&raw=1",
         gallery: [
           "https://www.dropbox.com/scl/fi/worha2mbc3ybyc5h5vnar/KNTU-Listeners-Wayland-Branson-1.png?rlkey=rnmypsz05zi4twqsryytsbdy5&raw=1",
@@ -282,7 +304,7 @@ export const DATA = {
         ],
       },
       {
-        id: 4,
+        id: 5,
         title: "Marketing Stories",
         description:
           "Blog essay on content marketing lessons from podcast production at QuietLoud Studios and KazSource showing how long form interviews become a supply chain of clips posts and campaigns and how consistency and listening drive results.",
@@ -300,7 +322,7 @@ export const DATA = {
         ],
       },
       {
-         id: 5,
+         id: 6,
         title: "TikTok Growth Strategy Case Study: Daily Posting vs Topical Content",
         description:
           "Blog case study on TikTok growth comparing daily posting with topical content across two KazSource channels and showing that timely audience targeted posts outperform baseline",
@@ -331,7 +353,7 @@ export const DATA = {
   morphingTexts: {
     about: ["Creative", "Passionate", "Curious"] as const,
     projects: ["My Work", "Creations", "Experiments", "Innovations"] as const,
-    contact: ["Let's", "Build", "Together"] as const,
+    contact: ["Let's", "Build", "Something", "Loud"] as const,
   },
   navigation: [
     { name: "Home", href: "/", icon: "lucide:home" },
