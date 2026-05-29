@@ -3,6 +3,7 @@ export const DATA = {
     hero: {
       name: "Wayland Branson",
       title: "Marketing Specialist",
+      
 
     },
     skills: {
