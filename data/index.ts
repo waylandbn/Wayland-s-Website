@@ -226,7 +226,7 @@ export const DATA = {
         ],
         category: "Campaigns",
         details:
-          "This project documents my earned media work at Strategic Partnerships, Inc., a national leader in government contracting intelligence. Working under President and CEO Mary Scott Nabers, former Texas Railroad Commissioner and one of the most recognized voices in public-sector infrastructure and procurement, I built targeted publisher lists, developed outreach strategies, wrote tailored pitches, embedded UTM tracking links, and secured more than 30 external media placements. The slides featured in this project showcase my original proposal for the earned media initiative, outlining the strategy, rationale, and implementation plan that ultimately helped expand SPI's reach beyond owned channels and strengthen the company's thought leadership presence without relying on paid advertising.",
+          "Led a rebranding initiative for 88.1 KNTU that modernized the station's digital presence, strengthened audience engagement, and contributed to a 4.7% increase in weekly listeners.",
         github: "https://www.spartnerships.com/about-spi/news-press/",
         tech: [
           { name: "MondayCRM", icon: "logos:monday-icon" },          
@@ -236,7 +236,7 @@ export const DATA = {
         id: 2,
         title: "88.1 KNTU Rebrand",
         description:
-          "As Station Programmer at KNTU I organized promotions, led digital strategy, helped build a new website, interviewed artists, programmed the weekly playlist, and helped grow weekly listeners by nearly 5% by the end of my tenure.",
+          "This project showcases my leadership role in rebranding 88.1 KNTU and modernizing how the station connected with its audience. As Content Director and Station Programmer, I led efforts across digital strategy, promotions, website redevelopment, artist relations, and audience engagement to create a stronger and more cohesive brand identity. My responsibilities included programming the station's weekly playlist, coordinating with record labels, promoters, underwriters, and artists, conducting interviews, and helping oversee the development of a new website. The listener chart featured here reflects the impact of these initiatives, documenting a 4.7% increase in weekly listeners during my tenure and demonstrating how strategic brand development can translate into measurable audience growth.",
         image: "https://www.dropbox.com/scl/fi/jcj3kbjetwbc5gz5nb4zo/kntu-4.png?rlkey=6yh6sadptx2br7sxntpp8upog&st=db4uh5ep&raw=1",
         gallery: [
           "https://www.dropbox.com/scl/fi/worha2mbc3ybyc5h5vnar/KNTU-Listeners-Wayland-Branson-1.png?rlkey=rnmypsz05zi4twqsryytsbdy5&raw=1",
