@@ -74,7 +74,7 @@ export const DATA = {
       name: "Wayland Branson",
       title: "Marketing & Development Specialist",
       image:
-        "https://www.dropbox.com/scl/fi/tmytck6ygpeizltiy88mf/Untitled-July-11-2026-at-12.58.03-4.png?rlkey=w2qdhf2pxtw945lfazt7lrunj&st=885eem6f&dl=0raw=1",
+        "https://www.dropbox.com/scl/fi/tmytck6ygpeizltiy88mf/Untitled-July-11-2026-at-12.58.03-4.png?rlkey=w2qdhf2pxtw945lfazt7lrunj&st=885eem6f&raw=1",
       description: [
         "I help organizations earn attention, build credibility, and connect with the people who matter most. My experience spans government contracting, arts administration, donor event coordination, music promotion, legal services, and media production, giving me a broad perspective on how different industries grow.",
         "From securing earned media placements and managing newsletter strategy to producing content, improving SEO, and supporting brand development, I focus on creating systems that drive visibility and deliver measurable results.",
