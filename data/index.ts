@@ -210,8 +210,26 @@ export const DATA = {
     sectionDescription:
       "Descriptions of Some of my Recent Projects",
     work: [
-       {
+      {
         id: 1,
+        title: "Midsummer Magic 2026 Opera Benefit",
+        description:
+          "Midsummer Magic was the 2026 Aspen Music Festival and School Opera Benefit, a signature fundraising event celebrating the future of opera through performances, philanthropy, and community.",
+        image: "https://www.dropbox.com/scl/fi/628lovwveemgo76e52vga/Opera_Benefit_Events_Page_v2.png?rlkey=vzdurgs3rfosimv409tzobu7j&st=tqmlrald&raw=1",
+        gallery: [
+          "https://www.dropbox.com/scl/fi/s7ue76y7qt8kmfry52201/Untitled-July-11-2026-at-12.58.03-1.png?rlkey=yydbd6t1ea7oo692yxlqzo7di&st=x9j46cwp&raw=1",
+          "https://www.dropbox.com/scl/fi/yv7g8x1c2w2g3lyvkr6k3/Untitled-July-11-2026-at-12.58.03-2.png?rlkey=69eb32ryinbt53a35izzeyiqt&st=drkaty4d&raw=1",
+          "https://www.dropbox.com/scl/fi/i86ncxrg2f449lt1tba9n/Untitled-July-11-2026-at-12.58.03-3.png?rlkey=ebwl46d519kuz789tfq1vp1ix&st=f1qpfm5w&raw=1",
+        ],
+        category: "Events",
+        details:
+          "As part of the Aspen Music Festival and School’s Development Office, I supported the planning and execution of Midsummer Magic, the 2026 Opera Benefit. I managed event registrations and guest information through Blackbaud Raiser’s Edge NXT, designed event collateral to maintain consistent AMFS branding, and developed messaging across email campaigns to encourage attendance and engagement. Working collaboratively with development, marketing, operations, and artistic teams, I helped coordinate event logistics and communications to ensure a seamless experience for guests, supporters, and performers. The evening brought together donors and members of the AMFS community to celebrate the next generation of opera artists and support the organization’s mission.",
+        github: "https://www.aspenmusicfestival.com/events/calendar/2026-opera-benefit/",
+        tech: [        
+        ],
+      },
+       {
+        id: 2,
         title: "SPI Earned Media Strategy",
         description:
           "At Strategic Partnerships, Inc., I developed and executed an earned media strategy that secured more than 30 external publication placements for executive thought leadership, expanding brand visibility without paid advertising.",
@@ -233,7 +251,7 @@ export const DATA = {
         ],
       },
       {
-        id: 2,
+        id: 3,
         title: "88.1 KNTU Rebrand",
         description:
           "Led a rebranding initiative for 88.1 KNTU that modernized the station's digital presence, strengthened audience engagement, and contributed to a 4.7% increase in weekly listeners.",
@@ -257,7 +275,7 @@ export const DATA = {
         ],
       },
       {
-        id: 3,
+        id: 4,
         title: "Entrepreneur Perspectives",
         description:
           "Entrepreneur Perspectives is a podcast for and about entrepreneurs. I ran content and distribution across TikTok, YouTube, Instagram, and web. I've generated steady gains on TikTok across views, followers, and likes.",
@@ -280,7 +298,7 @@ export const DATA = {
           ],
       },
       {
-        id: 4,
+        id: 5,
         title: "SportsE Media",
         description:
           "SportsE Media is a sports news and production brand. I created short videos and graphics, engaged the community, and used topical TikToks targeted to specific fan groups that consistently outperform baseline content.",
@@ -304,7 +322,7 @@ export const DATA = {
         ],
       },
       {
-        id: 5,
+        id: 6,
         title: "Marketing Stories",
         description:
           "Blog essay on content marketing lessons from podcast production at QuietLoud Studios and KazSource showing how long form interviews become a supply chain of clips posts and campaigns and how consistency and listening drive results.",
@@ -322,7 +340,7 @@ export const DATA = {
         ],
       },
       {
-         id: 6,
+         id: 7,
         title: "TikTok Growth Strategy Case Study: Daily Posting vs Topical Content",
         description:
           "Blog case study on TikTok growth comparing daily posting with topical content across two KazSource channels and showing that timely audience targeted posts outperform baseline",
@@ -367,7 +385,7 @@ export const DATA = {
     contact: {
       email: "morrisbranson@gmail.com",
       phone: "+1 (469) 408-7059",
-      location: "Dallas, TX",
+      location: "Boston, MA",
     },
     socialLinks: [
       {
