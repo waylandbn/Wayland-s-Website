@@ -10,7 +10,7 @@ export const DATA = {
     skills: {
       sectionTitle: "Skills",
       sectionDescription:
-        " Working across content, audio, search, and web tools to support clients and marketing teams.",
+        " Working across content, audio, search, and CRM platforms to support client relationships and marketing teams.",
       overview: [
         {
           name: "Brand Management",
@@ -72,13 +72,13 @@ export const DATA = {
   about: {
     profile: {
       name: "Wayland Branson",
-      title: "Marketing Specialist",
+      title: "Marketing & Development Specialist",
       image:
         "https://www.dropbox.com/scl/fi/j9xs6ysw86fpxvehre6xb/wayland-branson-marketing-specialist-headshot.png?rlkey=ewo3kxk90mgv70bx5dykfh0fd&st=d6a2vi6p&raw=1",
       description: [
-        "I help organizations earn attention, build credibility, and connect with the people who matter most. My experience spans government contracting, arts administration, music promotion, legal services, and media production, giving me a broad perspective on how different industries grow.",
-        "From securing earned media placements and managing newsletter strategy to producing content, improving SEO, and supporting brand development, I focus on creating marketing systems that drive visibility and deliver measurable results.",
-        "I believe good marketing starts with understanding people and ends with execution. Whether I'm developing strategy, creating content, managing campaigns, or analyzing performance, my work consistently helps brands stand out for the right reasons.",
+        "I help organizations earn attention, build credibility, and connect with the people who matter most. My experience spans government contracting, arts administration, donor event coordination, music promotion, legal services, and media production, giving me a broad perspective on how different industries grow.",
+        "From securing earned media placements and managing newsletter strategy to producing content, improving SEO, and supporting brand development, I focus on creating systems that drive visibility and deliver measurable results.",
+        "I believe good marketing starts with understanding people and ends with execution. Whether I'm developing strategy, creating content, fostering client relationships, managing campaigns, or analyzing performance, my work consistently helps brands stand out for the right reasons.",
       ],
     },
     education: [
