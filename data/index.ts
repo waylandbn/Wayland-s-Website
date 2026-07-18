@@ -323,6 +323,24 @@ export const DATA = {
       },
       {
         id: 6,
+        title: "Urban Air",
+        description:
+          "Strategic brand report examining Urban Air's position in the active family entertainment industry, defining its core brand, analyzing competitors, and outlining opportunities to strengthen its market presence and elevate long term brand value.",
+        image: "https://quietloudstudios.com/wp-content/uploads/2025/08/What-I-Learned-from-Podcast-Content-Marketing.png",
+        gallery: [
+          "https://www.dropbox.com/scl/fi/sqbp7yeyvw3cwdpgzzxx4/images-1.jpeg?rlkey=3iyu70bvsv8wir9hqhh95vp05&raw=1",
+        ],
+        category: "Strategic Brand Report",
+        details:
+          "Please follow the link on the bottom right to view the full report.",
+        github: "https://drive.google.com/file/d/1NvNp6mfmC6WbdjGIbjgJemCaDe8FSJH2/view?usp=sharing",
+        tech: [
+          { name: "WordPress", icon: "ic:baseline-wordpress" },
+          { name: "Microsoft Word", icon: "file-icons:microsoft-word" },
+        ],
+      },
+      {
+        id: 7,
         title: "Marketing Stories",
         description:
           "Blog essay on content marketing lessons from podcast production at QuietLoud Studios and KazSource showing how long form interviews become a supply chain of clips posts and campaigns and how consistency and listening drive results.",
@@ -340,7 +358,7 @@ export const DATA = {
         ],
       },
       {
-         id: 7,
+         id: 8,
         title: "TikTok Growth Strategy Case Study: Daily Posting vs Topical Content",
         description:
           "Blog case study on TikTok growth comparing daily posting with topical content across two KazSource channels and showing that timely audience targeted posts outperform baseline",
